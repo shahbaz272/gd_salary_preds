@@ -1,0 +1,1000 @@
+Job Title,Rating,Company Name,Type of ownership,Industry,Sector,max_salary,avg_salary,avg_size,city,state,age,python_yn,R_yn,spark_yn,aws_yn,hadoop_yn
+"VP, Data Science",3.9,7Park Data,Company - Private,Research & Development,Business Services,250,212.5,125.5,New York,NY,8,1,0,1,0,0
+Data Science Analyst,3.7,American College of Radiology,Nonprofit Organization,Health Fundraising Organizations,Non-Profit,250,212.5,350.5,Reston,VA,97,0,0,0,0,0
+"Director, Data Science",3.6,Grainger,Company - Public,Wholesale,Business Services,250,212.5,10000.0,Lake Forest,IL,93,1,0,0,0,0
+"Data Science Manager, Connect",4.0,Stripe,Company - Private,Internet,Information Technology,250,212.5,3000.5,San Francisco,CA,10,1,0,0,0,0
+Product Data Scientist - Ads Data Science,4.0,Twitter,Company - Public,Internet,Information Technology,250,212.5,3000.5,San Francisco,CA,14,1,0,0,0,0
+Data Science Software Engineer,4.8,Klaviyo,Company - Private,Computer Hardware & Software,Information Technology,250,212.5,350.5,Boston,MA,8,1,0,0,0,0
+Data Science Associate,3.7,Via Transportation,Company - Private,Internet,Information Technology,250,212.5,750.5,New York,NY,8,1,0,0,0,0
+Data Science Internship,3.8,Avanceon Limited,Company - Private,Architectural & Engineering Services,Business Services,250,212.5,125.5,Exton,PA,-1,0,0,0,1,0
+Data Science Intern,4.5,"Fullpower Technologies, Inc.",-1,-1,-1,250,212.5,-1.0,Santa Cruz,CA,-1,1,0,0,0,0
+Data Science Associate,2.1,Shareablee,Company - Private,Enterprise Software & Network Solutions,Information Technology,250,212.5,25.5,New York,NY,8,1,0,1,0,1
+Data Science Analyst,3.7,GNY Insurance Companies,Company - Private,Insurance Carriers,Insurance,250,212.5,350.5,New York,NY,106,1,0,0,0,0
+Product Data Science,4.7,Loom,Company - Private,Enterprise Software & Network Solutions,Information Technology,250,212.5,125.5,Remote,Remote,4,1,0,0,0,0
+Data Science,3.3,Valve Corporation,Company - Private,Video Games,Media,250,212.5,350.5,Bellevue,WA,-1,0,0,0,0,0
+Data Science Manager,-1.0,Decode_M,Unknown,-1,-1,250,212.5,25.5,New York,NY,-1,1,0,0,0,0
+Data Science & Analytics Intern,4.1,Cuker,Company - Private,Advertising & Marketing,Business Services,250,212.5,25.5,San Diego,CA,14,0,0,0,0,0
+"Product Analyst, Data Science",4.4,Google,Company - Public,Internet,Information Technology,250,212.5,10000.0,New York,NY,22,0,0,0,0,0
+Spring Data Science Intern,4.5,Øptimus,Company - Private,-1,-1,250,212.5,25.5,Alexandria,VA,-1,1,0,0,0,0
+Data Science Analyst,3.7,Fannie Mae,Company - Public,Investment Banking & Asset Management,Finance,250,212.5,7500.5,Washington,DC,82,1,0,0,0,0
+Data Science & Data Engineering Intern,5.0,"Carta Healthcare, Inc.",Company - Private,-1,-1,250,212.5,25.5,San Mateo,CA,-1,0,0,0,0,0
+IT Partner Digital Health Technology and Data Science,3.6,Biogen,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,250,212.5,7500.5,Cambridge,MA,42,0,0,0,0,0
+Healthcare Data Science Intern,3.6,IQVIA,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,250,212.5,10000.0,Durham,NC,3,1,0,0,0,0
+Data Science Associate,3.7,PIMCO,Subsidiary or Business Segment,Investment Banking & Asset Management,Finance,250,212.5,3000.5,New York,NY,49,1,0,0,0,0
+Data Science Intern,4.7,SiO Digital,Company - Private,Advertising & Marketing,Business Services,250,212.5,25.5,San Diego,CA,5,1,0,0,0,0
+Data Science Internship,3.9,CATCH Intelligence,Company - Private,-1,-1,250,212.5,-1.0,Omaha,NE,-1,0,0,0,0,0
+Data Science Intern (USA Remote),4.9,Pathrise,Company - Private,Education Training Services,Education,250,212.5,25.5,Remote,Remote,3,0,0,0,1,0
+Associate Director of Data Science,4.0,California Primary Care Association,Nonprofit Organization,Membership Organizations,Business Services,250,212.5,25.5,Sacramento,CA,26,0,0,0,0,0
+Data Science Intern,4.7,Prospect 33,Company - Private,Consulting,Business Services,250,212.5,350.5,New York,NY,15,0,0,0,0,0
+Data Science Internship,4.0,Mather Economics,Company - Private,-1,-1,250,212.5,25.5,Atlanta,GA,-1,1,0,1,0,1
+Data Science Assistant,4.5,Intelliloan,Company - Private,Lending,Finance,250,212.5,125.5,Costa Mesa,CA,27,1,0,0,0,0
+Data Science Intern,4.0,Flexton,Company - Private,IT Services,Information Technology,250,212.5,125.5,San Francisco,CA,13,1,0,0,0,0
+"Director, Data Science",3.6,Grainger,Company - Public,Wholesale,Business Services,220,179.5,10000.0,Lake Forest,IL,93,1,0,0,0,0
+Product Data Scientist - Ads Data Science,4.0,Twitter,Company - Public,Internet,Information Technology,220,179.5,3000.5,San Francisco,CA,14,1,0,0,0,0
+Data Science,5.0,Aible,Unknown,Enterprise Software & Network Solutions,Information Technology,220,179.5,25.5,Foster City,CA,2,1,0,0,1,0
+NLP DATA SCIENCE,4.5,Ultimate Software,Company - Private,Enterprise Software & Network Solutions,Information Technology,220,179.5,7500.5,Fort Lauderdale,FL,30,1,0,0,0,0
+Data Science,3.0,"Miracle Software Systems, Inc.",Company - Private,IT Services,Information Technology,220,179.5,125.5,Dearborn,MI,26,1,0,0,0,0
+Data Science Intern,-1.0,Trace Genomics,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,220,179.5,25.5,Remote,Remote,-1,0,0,0,0,0
+Data Science Internship-PAID!,3.9,CATCH Intelligence,Company - Private,-1,-1,220,179.5,-1.0,Omaha,NE,-1,0,0,0,0,0
+Data Science,5.0,ingenium.agency,Company - Private,Staffing & Outsourcing,Business Services,220,179.5,25.5,New York,NY,4,1,0,0,0,0
+Data Science with Python,3.9,Diverse Lynx,Company - Private,IT Services,Information Technology,220,179.5,750.5,Phoenix,AZ,18,1,0,1,0,0
+Data Science Intern,3.9,"ShareThis, Inc",Company - Private,Internet,Information Technology,220,179.5,125.5,Palo Alto,CA,13,1,0,0,1,0
+Director of Data Science,4.3,Newsela,Company - Private,Internet,Information Technology,220,179.5,350.5,New York,NY,8,1,0,0,0,0
+077: Data Science Analyst,4.0,Dataspace,Company - Private,IT Services,Information Technology,220,179.5,25.5,Detroit,MI,26,1,0,0,0,0
+Data Science/Geospatial Data Science Intern,4.1,Pivot Bio,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,220,179.5,125.5,Berkeley,CA,9,1,0,0,0,0
+Data Science Intern,4.5,US Electrical Services,Company - Private,Wholesale,Business Services,220,179.5,3000.5,Connecticut,CT,14,1,0,0,0,0
+"Associate, Data Sciences II",3.9,AbbVie,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,220,179.5,10000.0,Crystal Lake,IL,7,0,0,0,0,0
+Data Science Division - Research Analyst,3.3,CNA Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,220,179.5,750.5,Arlington,VA,78,1,0,0,0,0
+Mentor Waitlist - Data Science Course (Part-Time/Online),4.5,Springboard,Company - Private,Education Training Services,Education,220,179.5,125.5,Remote,Remote,7,1,0,0,0,0
+Data Science Analyst,3.5,Logicalis,Company - Private,IT Services,Information Technology,220,179.5,3000.5,West Chester,OH,32,1,0,1,1,1
+Head of Data Science & Analytics - Digital Health R&D Oncology,4.0,AstraZeneca,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,220,179.5,10000.0,Gaithersburg,MD,107,0,0,0,1,0
+Data Science Analyst,4.5,Torch Technologies,Company - Private,Aerospace & Defense,Aerospace & Defense,220,179.5,3000.5,Huntsville,AL,18,1,0,0,0,0
+Data Science,-1.0,ARV Systems Inc,Company - Public,-1,-1,220,179.5,25.5,Bloomington,IL,1,1,0,1,0,1
+Data Science Analyst,3.5,Leidos,Company - Public,Aerospace & Defense,Aerospace & Defense,220,179.5,10000.0,McLean,VA,51,0,0,0,1,0
+Data Science Intern,-1.0,The Buttonwood Tree,-1,-1,-1,220,179.5,-1.0,New York,NY,-1,1,0,0,0,0
+"Product Analytics Lead, Data Science",4.4,Google,Company - Public,Internet,Information Technology,220,179.5,10000.0,New York,NY,22,0,0,0,0,0
+Director of Data Science,4.8,KnowBe4,Company - Private,IT Services,Information Technology,220,179.5,750.5,Clearwater,FL,10,1,0,1,1,0
+Data Science - Intern,-1.0,Sonde Health,Private Practice / Firm,Health Care Services & Hospitals,Health Care,220,179.5,25.5,Boston,MA,-1,1,0,0,0,0
+Data Science,4.2,IT America,Company - Private,IT Services,Information Technology,220,179.5,350.5,Louisville,KY,16,0,0,0,0,0
+"Data Science Manager, Payment Acceptance - USA",4.0,Stripe,Company - Private,Internet,Information Technology,220,179.5,3000.5,San Francisco,CA,10,1,0,0,0,0
+Data Science Researcher,4.5,Teikametrics,Company - Private,Internet,Information Technology,220,179.5,125.5,Boston,MA,8,1,0,0,0,0
+Data Science All Star Program - Marketing Analytics Track,4.6,Blend360,Company - Private,Consulting,Business Services,220,179.5,125.5,Columbia,MD,18,0,0,0,0,0
+Data Science Instructor,4.5,Novetta,Company - Private,Enterprise Software & Network Solutions,Information Technology,220,179.5,750.5,Herndon,VA,8,0,0,0,0,0
+Data Science Engineer,4.9,Epic,Company - Private,Internet,Information Technology,220,179.5,125.5,Redwood City,CA,6,1,0,1,0,1
+Data Science Software Engineer,4.8,Klaviyo,Company - Private,Computer Hardware & Software,Information Technology,125,105.5,350.5,Boston,MA,8,1,0,0,0,0
+"Data Science Manager, Connect",4.0,Stripe,Company - Private,Internet,Information Technology,125,105.5,3000.5,San Francisco,CA,10,1,0,0,0,0
+"Research Data Science Intern, Summer",3.8,Arrowstreet Capital,Company - Private,Investment Banking & Asset Management,Finance,125,105.5,25.5,Boston,MA,-1,1,0,0,0,0
+"Analyst, Data Science, Solaria Labs",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,125,105.5,10000.0,Boston,MA,108,1,0,0,1,1
+"Principal Associate, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,125,105.5,10000.0,Plano,TX,26,1,0,1,1,0
+Data Science Engineer,4.1,Apple,Company - Public,Computer Hardware & Software,Information Technology,125,105.5,10000.0,Austin,TX,44,1,0,0,0,0
+Data Science Analyst,2.7,Collins Consulting Inc,Company - Private,Consulting,Business Services,125,105.5,350.5,Norfolk,VA,28,0,0,0,1,0
+Data Analyst - Data Science,3.3,Gopuff,Company - Private,Express Delivery Services,Transportation & Logistics,125,105.5,3000.5,Philadelphia,PA,7,1,0,0,1,1
+DATA SCIENCE INTERNSHIP,-1.0,Atlas General Insurance Svcs,-1,-1,-1,125,105.5,-1.0,San Diego,CA,-1,1,0,0,0,0
+Data Science Specialist USA,3.3,Mphasis limited,Company - Public,Computer Hardware & Software,Information Technology,125,105.5,10000.0,New York,NY,28,0,0,0,0,0
+Associate Clinical Data Sciences,3.7,Lilly,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,125,105.5,10000.0,Indianapolis,IN,144,1,0,0,0,0
+"Director, Data Science",3.8,Marqeta,Company - Private,Financial Transaction Processing,Finance,125,105.5,350.5,Remote,Remote,10,0,0,0,1,0
+Summer Data Science Intern,4.5,Øptimus,Company - Private,-1,-1,125,105.5,25.5,Alexandria,VA,-1,1,0,0,0,0
+Data Science Analyst,-1.0,Greater New York Mutual Insurance Companies (GNY),-1,-1,-1,125,105.5,-1.0,New York,NY,-1,1,0,0,0,0
+"Data Science Director, Privacy",4.5,Facebook,Company - Public,Internet,Information Technology,125,105.5,10000.0,Menlo Park,CA,16,0,0,0,0,0
+"Sr. Manager, Data Science - Network",4.5,Slack,Company - Public,Internet,Information Technology,125,105.5,3000.5,San Francisco,CA,6,0,0,0,0,0
+"Analyst II, Data Science",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,125,105.5,10000.0,Boston,MA,108,1,0,0,0,0
+Data Science Analyst,3.6,Signature Consultants,Company - Private,Staffing & Outsourcing,Business Services,125,105.5,3000.5,Charlotte,NC,23,1,0,0,0,1
+Data Science Specialist,3.7,Eaton,Unknown,Electrical & Electronic Manufacturing,Manufacturing,125,105.5,10000.0,Southfield,MI,109,0,0,0,0,0
+"Head of Data Science, SMB",4.5,Facebook,Company - Public,Internet,Information Technology,125,105.5,10000.0,San Francisco,CA,16,0,0,0,0,1
+Business Intelligence and Data Sciences Analyst,3.6,TE Connectivity,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,125,105.5,10000.0,Berwyn,PA,13,0,0,0,0,0
+"Data Science Senior Manager, Apple Media Products",4.1,Apple,Company - Public,Computer Hardware & Software,Information Technology,125,105.5,10000.0,Santa Clara,CA,44,1,0,1,0,1
+Data Science Manager,4.2,Upstart,Company - Private,Lending,Finance,125,105.5,350.5,San Mateo,CA,8,1,0,0,0,0
+"Manager, Data Science - Growth Machine Learning",4.6,Livongo,Company - Public,Health Care Services & Hospitals,Health Care,125,105.5,750.5,Mountain View,CA,6,1,0,0,0,0
+Head of Data Science,5.0,Duolingo,Company - Private,Internet,Information Technology,125,105.5,350.5,Pittsburgh,PA,9,1,0,1,0,0
+Data Science Manager,3.9,Autodesk,Company - Public,Computer Hardware & Software,Information Technology,125,105.5,7500.5,San Francisco,CA,38,1,0,1,0,1
+"Sr Manager, Data Science - Policy & Advocacy",3.3,Reynolds American,Company - Private,Consumer Products Manufacturing,Manufacturing,125,105.5,7500.5,Winston-Salem,NC,145,0,0,0,0,0
+Data Science Engineer,3.5,Kohl's,Company - Public,"Department, Clothing, & Shoe Stores",Retail,125,105.5,10000.0,Milpitas,CA,58,1,0,1,0,0
+Senior Director of Data Science,4.0,Discount Tire,Company - Private,Automotive Parts & Accessories Stores,Retail,125,105.5,10000.0,Scottsdale,AZ,60,1,0,0,0,0
+Spring Data Science Intern,-1.0,Øptimus Consulting,-1,-1,-1,125,105.5,-1.0,Alexandria,VA,-1,1,0,0,0,0
+"Director, Data Science",4.5,Facebook,Company - Public,Internet,Information Technology,125,105.5,10000.0,Menlo Park,CA,16,0,0,0,0,0
+Data Science All Star Program - Data Engineer Track,4.6,Blend360,Company - Private,Consulting,Business Services,125,105.5,125.5,Columbia,MD,18,1,0,1,1,1
+Data Science Intern,4.5,"Fullpower Technologies, Inc.",Company - Private,Computer Hardware & Software,Information Technology,120,95.0,125.5,Santa Cruz,CA,17,1,0,0,0,0
+Data Science Associate,3.7,Via Transportation,Company - Private,Internet,Information Technology,120,95.0,750.5,New York,NY,8,1,0,0,0,0
+Data Science Analyst,5.0,xentity corporation,Company - Private,IT Services,Information Technology,120,95.0,125.5,Denver,CO,19,0,0,0,0,0
+Data Science & Analytics Manager,-1.0,Kinship,Company - Private,Advertising & Marketing,Business Services,120,95.0,25.5,New York,NY,-1,0,0,0,1,0
+Data Science Lead,3.8,Bristol-Myers Squibb,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,120,95.0,10000.0,Princeton,NJ,162,1,0,0,0,0
+Data Science Solutions Manager,3.3,NextEra Energy,Company - Public,Utilities,"Oil, Gas, Energy & Utilities",120,95.0,10000.0,North Palm Beach,FL,-1,1,0,0,1,0
+Data Science Division - Executive Assistant to Division VP/Director II,3.3,CNA Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,120,95.0,750.5,Arlington,VA,78,0,0,0,1,0
+Adjunct (Pool) - Data Science,3.8,Marymount University,College / University,Colleges & Universities,Education,120,95.0,750.5,Ballston Center,NY,70,0,0,0,1,0
+Data Science Consultant,3.8,ZS Associates,Company - Private,Consulting,Business Services,120,95.0,7500.5,Philadelphia,PA,37,1,0,0,0,1
+"Senior Data Scientist, Data Science Operations",3.4,Squarespace,Company - Private,Internet,Information Technology,120,95.0,3000.5,New York,NY,17,1,0,0,1,0
+Data Science and Product Manager,3.3,State of Oklahoma,Government,State & Regional Agencies,Government,120,95.0,10000.0,Oklahoma City,OK,30,1,0,1,0,0
+Data Science & Machine Learning,3.8,IntraEdge,Company - Private,IT Services,Information Technology,120,95.0,750.5,Phoenix,AZ,18,0,0,1,1,1
+Head of Data Science,4.8,Clari,Company - Private,Computer Hardware & Software,Information Technology,120,95.0,350.5,Sunnyvale,CA,8,1,0,1,0,0
+"Software Engineer in Test, Data Science & Analytics - San Mateo, CA",4.1,Guidewire Software,Company - Public,Computer Hardware & Software,Information Technology,120,95.0,3000.5,San Mateo,CA,19,1,0,0,1,0
+Data Science Business and Operations Manager,3.3,Astellas Pharma,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,120,95.0,3000.5,Northbrook,IL,15,0,0,0,0,0
+Data Science Tester,3.5,Youngsoft,Company - Private,IT Services,Information Technology,120,95.0,125.5,Washington,DC,24,1,1,0,1,1
+Data Science Engineer,4.1,Dtex Systems,Company - Private,Enterprise Software & Network Solutions,Information Technology,120,95.0,125.5,San Jose,CA,18,0,0,1,0,1
+Director Data Science,4.5,Facebook,Company - Public,Internet,Information Technology,120,95.0,10000.0,Menlo Park,CA,16,0,0,0,0,0
+Data Science Developer,3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,120,95.0,3000.5,San Antonio,TX,25,1,0,0,0,0
+Director Of Data Science,4.7,Prealize Health,Company - Private,Health Care Services & Hospitals,Health Care,120,95.0,25.5,Palo Alto,CA,-1,1,0,1,1,0
+Research Analyst (Data Science),3.4,APCO Worldwide,Company - Private,Consulting,Business Services,120,95.0,750.5,New York,NY,36,0,0,0,0,0
+Data Science Analyst/Engineer,4.0,NYU Langone Health,Hospital,Health Care Services & Hospitals,Health Care,120,95.0,10000.0,New York,NY,179,1,0,1,0,1
+Business Development Leader - Data Science Solutions,4.6,Blend360,Company - Private,Consulting,Business Services,120,95.0,125.5,Columbia,MD,18,0,0,0,0,0
+Data Science Manager (Multiple Positions),3.9,Accenture,Company - Public,Consulting,Business Services,120,95.0,10000.0,Boston,MA,31,0,0,0,0,0
+"Head of Data Science, Americas",4.3,BlueOptima,Company - Private,Enterprise Software & Network Solutions,Information Technology,120,95.0,125.5,Phoenix,AZ,14,1,0,0,0,0
+Data Science Engineer,4.0,METMOX,Company - Private,IT Services,Information Technology,120,95.0,125.5,Schaumburg,IL,16,1,0,1,0,1
+Data Science Engineer,4.8,SoftStandard Solutions,Company - Private,-1,-1,120,95.0,125.5,Avon Park,FL,-1,0,0,1,0,1
+Developer III - Data Science,3.3,Inland Empire Health Plan,Company - Public,Health Care Services & Hospitals,Health Care,120,95.0,3000.5,Rancho Cucamonga,CA,24,0,0,0,0,0
+Data Science Support Analyst (Journeyman),3.6,BAE Systems USA,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,120,95.0,10000.0,McLean,VA,21,0,0,0,0,0
+"Senior Analyst, Data Science",3.9,Roku,Company - Public,IT Services,Information Technology,120,95.0,3000.5,New York,NY,18,1,0,0,0,0
+"Director II, Data Science - Office of Data Science",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,120,95.0,10000.0,Boston,MA,108,0,0,0,0,0
+Computer Science and Data Science,4.1,BGI (Ohio),Company - Private,Accounting,Accounting & Legal,120,95.0,25.5,Akron,OH,-1,0,0,0,0,0
+Data Science Analyst,3.7,GNY Insurance Companies,Company - Private,Insurance Carriers,Insurance,124,98.5,350.5,New York,NY,106,1,0,0,0,0
+Data Science Manager,-1.0,Decode_M,Unknown,-1,-1,124,98.5,25.5,New York,NY,-1,1,0,0,0,0
+Data Science Specialist,3.9,The Aerospace Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,124,98.5,3000.5,Chantilly,VA,60,1,0,1,0,1
+Temporary Lecture - Data Science Program,4.3,UC San Diego,College / University,Colleges & Universities,Education,124,98.5,10000.0,San Diego,CA,60,0,0,0,0,0
+Summer Data Science Intern,-1.0,Øptimus Consulting,-1,-1,-1,124,98.5,-1.0,Alexandria,VA,-1,1,0,0,0,0
+Senior Manager of Data Science - Operations,3.7,Guild Education,Company - Private,Enterprise Software & Network Solutions,Information Technology,124,98.5,750.5,Denver,CO,5,1,0,0,0,0
+Data Science Director,4.5,Facebook,Company - Public,Internet,Information Technology,124,98.5,10000.0,Menlo Park,CA,16,0,0,0,0,1
+"Specialist, Data Science",3.6,Nationwide,Company - Private,-1,-1,124,98.5,10000.0,Columbus,OH,95,1,0,0,0,0
+Manager of Data Science,2.7,Innocean,Unknown,Advertising & Marketing,Business Services,124,98.5,3000.5,Irvine,CA,15,0,0,0,0,0
+Data Science Developer,3.6,Signature Consultants,Company - Private,Staffing & Outsourcing,Business Services,124,98.5,3000.5,Redwood City,CA,23,1,0,0,0,0
+"Section Head, Geographic Data Science",4.3,Oak Ridge National Laboratory,Government,Federal Agencies,Government,124,98.5,3000.5,Oak Ridge,TN,77,0,0,0,0,0
+Manager - Data Science,4.0,Biz2Credit Inc,Company - Private,Lending,Finance,124,98.5,350.5,New York,NY,13,1,0,0,0,0
+Data Science Consultant,4.5,NC State University,College / University,Colleges & Universities,Education,124,98.5,125.5,Raleigh,NC,-1,1,0,0,0,0
+Data Science with DataIKU,3.7,Cognizant Technology Solutions,Company - Public,-1,-1,124,98.5,10000.0,Greensboro,NC,26,0,0,0,0,0
+Data Science Manager,4.6,Discord,Company - Private,Internet,Information Technology,124,98.5,350.5,San Francisco,CA,5,1,0,0,1,1
+Data Science Scrum Master,3.6,Foot Locker,Company - Public,"Department, Clothing, & Shoe Stores",Retail,124,98.5,10000.0,Saint Petersburg,FL,46,0,0,0,0,0
+Director of Data Science,4.2,Mode Analytics,Company - Private,Internet,Information Technology,124,98.5,125.5,Remote,Remote,7,0,0,0,0,0
+Manager Data Science,4.6,EDI Staffing,Company - Private,Staffing & Outsourcing,Business Services,124,98.5,125.5,Tampa,FL,26,0,0,0,0,0
+Data Science Engineer,-1.0,EngiSys,Company - Private,IT Services,Information Technology,124,98.5,25.5,Rockville,MD,21,1,0,1,0,1
+Data science intern,-1.0,"Extend Enterprises, Inc.",-1,-1,-1,124,98.5,-1.0,New York,NY,-1,0,0,0,0,0
+Data Science Product Manager,3.7,MassMutual,Company - Private,Insurance Carriers,Insurance,124,98.5,7500.5,Boston,MA,169,0,0,0,0,0
+Data science,4.8,Softstandard solution,Company - Private,-1,-1,124,98.5,125.5,Texas City,TX,-1,0,0,0,0,0
+Sr. Data Science Innovation Engineer,4.9,ClearStory Data,Company - Private,Enterprise Software & Network Solutions,Information Technology,124,98.5,125.5,Ann Arbor,MI,9,1,0,0,0,1
+Data Science Consultant,2.8,BizTech Solutions Inc,Company - Private,Advertising & Marketing,Business Services,124,98.5,25.5,Texas City,TX,-1,0,0,0,0,0
+Technical Consultant - Data Science,3.7,Rockwell Automation,Company - Public,Industrial Manufacturing,Manufacturing,124,98.5,10000.0,Milwaukee,WI,117,0,0,1,0,1
+DATA SCIENCE & TAGGING ANALYST,3.8,Mission Essential,Company - Private,Aerospace & Defense,Aerospace & Defense,124,98.5,3000.5,Bethesda,MD,16,1,0,1,0,0
+Data Science Consultant (Scientist),5.0,PriceSenz,Company - Public,-1,-1,124,98.5,-1.0,Denver,CO,-1,1,0,0,0,0
+Senior Data Architect - Data Science & Machine Learning,3.7,AvidXchange,Company - Private,Computer Hardware & Software,Information Technology,124,98.5,3000.5,Charlotte,NC,20,1,0,0,1,0
+Data Science Application Engineer,3.5,MGIC Investment Corp,Company - Public,Insurance Carriers,Insurance,124,98.5,750.5,Milwaukee,WI,63,1,0,1,0,0
+Director Data Science,5.0,PROPRIUS,Company - Private,Enterprise Software & Network Solutions,Information Technology,124,98.5,25.5,San Francisco,CA,-1,0,0,0,0,0
+Data Science Bulk Req,3.5,Andiamo,Company - Private,Casual Restaurants,"Restaurants, Bars & Food Services",124,98.5,350.5,New York,NY,-1,0,0,1,1,0
+Data Science Instructor,3.6,"Jacobs Engineering Group, Inc.",Company - Public,Architectural & Engineering Services,Business Services,124,98.5,10000.0,Reston,VA,73,0,0,0,0,0
+IT Partner Digital Health Technology and Data Science,3.6,Biogen,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,148,119.5,7500.5,Cambridge,MA,42,0,0,0,0,0
+Associate Director of Data Science,4.0,California Primary Care Association,Nonprofit Organization,Membership Organizations,Business Services,148,119.5,25.5,Sacramento,CA,26,0,0,0,0,0
+Director of Data Science,4.3,Match Relevant,Company - Private,Advertising & Marketing,Business Services,148,119.5,25.5,Newport Beach,CA,-1,1,0,0,1,0
+Data Science Architect,4.3,"Onica, a Rackspace Company",Company - Private,IT Services,Information Technology,148,119.5,350.5,Austin,TX,3,1,0,0,1,0
+Senior Data Science Analyst - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,148,119.5,10000.0,Riverwoods,IL,35,1,0,0,0,0
+Data Science Support Analyst (Senior),3.6,BAE Systems USA,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,148,119.5,10000.0,McLean,VA,21,0,0,0,0,0
+Data Science Chapter Lead,3.5,Cimpress/Vistaprint,Company - Public,Other Retail Stores,Retail,148,119.5,7500.5,Waltham,MA,25,0,0,0,0,0
+"Mgr, Data Science",3.1,AAA Auto Club,Nonprofit Organization,Membership Organizations,Business Services,148,119.5,750.5,Tampa,FL,118,0,0,0,0,0
+Director of Data Science,2.8,Chewy,Company - Public,Pet & Pet Supplies Stores,Retail,148,119.5,10000.0,Boston,MA,9,0,0,0,0,0
+"Director, Epidemiologic Data Science",4.1,Pfizer,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,148,119.5,10000.0,New York,NY,171,0,0,0,1,0
+Data Science Fellow,3.5,Yakima Valley Farm Workers Clinic,Nonprofit Organization,Health Care Services & Hospitals,Health Care,148,119.5,3000.5,Toppenish,WA,42,0,0,0,0,0
+NCI T32 Post-Doctoral Fellowship in Cancer Data Science,4.0,H. Lee Moffitt Cancer Center & Research Institute,Hospital,Health Care Services & Hospitals,Health Care,148,119.5,7500.5,Tampa,FL,36,1,0,0,0,0
+Data Science Instructor,3.8,KBR,Company - Public,Energy,"Oil, Gas, Energy & Utilities",148,119.5,10000.0,Dayton,OH,119,0,0,0,0,0
+Head of Data Science,3.6,MediaMath,Company - Private,Advertising & Marketing,Business Services,148,119.5,750.5,New York,NY,13,1,0,1,0,0
+Manager IoT Data Science,3.5,Rheem,Company - Private,Industrial Manufacturing,Manufacturing,148,119.5,10000.0,Roswell,NM,95,0,0,0,0,0
+Data Science Manager,-1.0,9Rooftops,Company - Private,Advertising & Marketing,Business Services,148,119.5,350.5,Pittsburgh,PA,0,1,0,0,1,0
+Data Science Fellow,-1.0,Øptimus Consulting,-1,-1,-1,148,119.5,-1.0,Alexandria,VA,-1,1,0,0,0,0
+Data Science and Analytics,4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,148,119.5,25.5,New York,NY,-1,0,0,0,0,0
+"Data Science Instructor, Journeyman",3.8,KBR,Company - Public,Energy,"Oil, Gas, Energy & Utilities",148,119.5,10000.0,Dayton,OH,119,1,0,0,0,0
+Data Science Engineer,-1.0,OneModel,-1,-1,-1,148,119.5,-1.0,Austin,TX,-1,1,0,1,1,1
+Data Science Temp,2.8,1-800-Flowers,Company - Public,Wholesale,Business Services,148,119.5,3000.5,New York,NY,44,0,0,0,0,0
+"Director, Strategic Research Data Science",3.8,E&A,Unknown,-1,-1,148,119.5,125.5,Houston,TX,10,0,0,0,0,0
+Data Science Instructor,3.7,General Assembly,Company - Private,Education Training Services,Education,148,119.5,750.5,Austin,TX,9,1,0,1,0,1
+Behavioral Data Science Manager,3.7,mPulse Mobile,Company - Private,Health Care Services & Hospitals,Health Care,148,119.5,125.5,Los Angeles,CA,6,0,0,0,0,0
+Managing Consultant - Data Science,4.3,BlueOptima,Company - Private,Enterprise Software & Network Solutions,Information Technology,148,119.5,125.5,Phoenix,AZ,14,1,0,0,0,0
+Data Science Developer,3.4,Infinity Consulting Solutions,Company - Private,Staffing & Outsourcing,Business Services,148,119.5,750.5,Westmont,IL,19,1,0,0,0,0
+"Manager/Sr Manager, Data Science",4.6,Blend360,Company - Private,Consulting,Business Services,148,119.5,125.5,Columbia,MD,18,1,0,0,1,0
+Domino Data science - Remote,5.0,Georgia IT Inc.,Company - Private,-1,-1,148,119.5,25.5,Alpharetta,GA,-1,0,0,0,0,0
+Data Science Mission Head,3.6,Space Telescope Science Institute,Company - Private,Colleges & Universities,Education,148,119.5,-1.0,Baltimore,MD,-1,0,0,0,0,0
+Senior Digital and Data Science Manager,3.7,Takeda,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,148,119.5,10000.0,Lexington,MA,239,1,0,0,0,0
+Data Science & Tagging Analyst,2.8,Xator Corporation,Contract,IT Services,Information Technology,148,119.5,750.5,Bethesda,MD,-1,1,0,1,0,0
+Director of Data Science,5.0,RS21,Company - Private,Consulting,Business Services,148,119.5,25.5,Albuquerque,NM,5,1,0,1,1,1
+Director of Data Science,4.3,Newsela,Company - Private,Internet,Information Technology,173,130.0,350.5,New York,NY,8,1,0,0,0,0
+NLP DATA SCIENCE,4.5,Ultimate Software,Company - Private,Enterprise Software & Network Solutions,Information Technology,173,130.0,7500.5,Fort Lauderdale,FL,30,1,0,0,0,0
+Head of Real-World Data Science,5.0,Genesis Research,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,173,130.0,25.5,Hoboken,NJ,11,0,0,0,0,0
+Industry Analyst -- Data Science and Strategy,3.5,GasPedal,Company - Private,Membership Organizations,Business Services,173,130.0,25.5,Austin,TX,13,0,0,0,0,0
+Data Science Analysts,4.2,"The Squires Group, Inc",Company - Private,IT Services,Information Technology,173,130.0,125.5,Norfolk,VA,25,0,0,0,0,0
+Senior Director of Data Science,4.3,Medidata Solutions,Company - Public,Enterprise Software & Network Solutions,Information Technology,173,130.0,3000.5,New York,NY,21,0,0,0,1,0
+Principal Data Science - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,173,130.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Program Coordinator,4.2,University of California,College / University,Colleges & Universities,Education,173,130.0,10000.0,San Diego,CA,152,0,0,0,0,0
+Director of Development & Data Science,-1.0,Black Knight Financial Technology Solutions,-1,-1,-1,173,130.0,-1.0,Jacksonville,FL,-1,1,0,1,1,0
+Software Engineer - Data Science,4.1,ClearEdge,Company - Private,Computer Hardware & Software,Information Technology,173,130.0,125.5,Annapolis Junction,MD,18,1,0,1,0,1
+Data Science Manager (Multiple Positions),-1.0,Accenture Contractor Jobs,-1,-1,-1,173,130.0,-1.0,Boston,MA,-1,0,0,0,0,0
+"Group Director, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,173,130.0,10000.0,New York,NY,17,0,0,0,0,0
+"Head of Data Science, SMB",5.0,Instagram,Unknown,-1,-1,173,130.0,10000.0,San Francisco,CA,-1,0,0,0,0,1
+TSV Engineering & Data Science Program Manager,4.4,Two Sigma,Company - Private,Investment Banking & Asset Management,Finance,173,130.0,3000.5,New York,NY,19,0,0,0,0,0
+"Mgr, Data Science",3.3,Cedent Consulting Inc,Company - Private,Consulting,Business Services,173,130.0,25.5,Tampa,FL,-1,0,0,0,0,0
+Data Science Lead,4.5,Dynatrace,Company - Public,Computer Hardware & Software,Information Technology,173,130.0,3000.5,Detroit,MI,15,0,0,0,0,0
+Manager of Data Science,4.0,Core Digital Media,Company - Private,Internet,Information Technology,173,130.0,125.5,Los Angeles,CA,21,1,0,0,1,0
+"Director of Data Science, Peacock",3.8,NBC Universal,Company - Public,TV Broadcast & Cable Networks,Media,173,130.0,10000.0,New York,NY,114,1,0,1,0,0
+Lead Data Science Instructor,3.7,General Assembly,Company - Private,Education Training Services,Education,173,130.0,750.5,Washington,DC,9,1,0,1,0,1
+Lead Senior Data Science,3.4,The Trade Desk,Company - Public,Internet,Information Technology,173,130.0,3000.5,New York,NY,11,1,0,1,1,0
+Data Science & Tagging Analyst (Senior),3.7,DynCorp International,Company - Private,Aerospace & Defense,Aerospace & Defense,173,130.0,10000.0,Bethesda,MD,74,1,0,1,0,0
+Data Science Manager,3.3,Vaco Technology,Company - Private,Consulting,Business Services,173,130.0,750.5,Mountain View,CA,18,1,0,1,1,1
+Lead Data Science Analyst - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,173,130.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Mgr - Director of Data Science,3.3,Addison Group,Company - Private,Staffing & Outsourcing,Business Services,173,130.0,750.5,Washington,DC,21,0,0,1,0,1
+Director - Data Science,3.6,Humana,Company - Public,Insurance Carriers,Insurance,173,130.0,10000.0,Irving,TX,59,0,0,0,0,0
+Data Science Instructional Designer,-1.0,Tallon Recruiting & Staffing,-1,-1,-1,173,130.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Manager, Data Science - IHM",3.8,Discover,Company - Public,Financial Transaction Processing,Finance,173,130.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Engineering Lead,3.1,MUFG,Company - Public,Banks & Credit Unions,Finance,173,130.0,10000.0,San Francisco,CA,156,1,0,0,1,0
+Automation Engineer - Data Science,4.4,Spark Digital,Company - Private,IT Services,Information Technology,173,130.0,350.5,New York,NY,9,1,0,1,1,0
+Director Data Science,3.5,Micron Technology,Company - Public,Computer Hardware & Software,Information Technology,173,130.0,10000.0,Boise,ID,42,1,0,1,0,1
+Data Science Instructor,4.5,"Belay Technologies, Inc",Unknown,IT Services,Information Technology,173,130.0,25.5,Columbia,MD,12,0,0,0,0,0
+"Vice President, Data Science",2.8,AAA Mid-Atlantic,Company - Private,Membership Organizations,Business Services,173,130.0,3000.5,Cincinnati,OH,118,1,0,1,1,0
+Mentor Waitlist - Data Science Course (Part-Time/Online),4.5,Springboard,Company - Private,Education Training Services,Education,132,99.0,125.5,Remote,Remote,7,1,0,0,0,0
+Data Science Division - Research Analyst,3.3,CNA Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,132,99.0,750.5,Arlington,VA,78,1,0,0,0,0
+Data Science Lead Analyst,4.6,VIVA USA INC,Company - Private,IT Services,Information Technology,132,99.0,125.5,Franklin Lakes,NJ,24,1,0,0,0,1
+Data Science Manager,3.7,"MetLife, Inc.",Company - Public,Insurance Agencies & Brokerages,Insurance,132,99.0,10000.0,New York,NY,152,1,0,1,0,0
+Data Science & Tagging Analyst,5.0,Counter Threat Solutions,Company - Private,Consulting,Business Services,132,99.0,125.5,Bethesda,MD,5,1,0,1,0,0
+"Director, Data Science",3.2,"LivePerson, Inc.",Company - Public,Internet,Information Technology,132,99.0,3000.5,Seattle,WA,25,0,0,0,1,0
+Lead Data Science Analyst,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,132,99.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Director of Data Science,3.8,"Analysis Group, Inc.",Private Practice / Firm,Consulting,Business Services,132,99.0,3000.5,Boston,MA,39,1,0,0,1,0
+"Associate Director, Data Science",3.6,Humana,Company - Public,Insurance Carriers,Insurance,132,99.0,10000.0,Irving,TX,59,1,0,0,0,1
+Head of Data Science,3.4,Voice,Company - Private,-1,-1,132,99.0,-1.0,Brooklyn,NY,-1,1,0,0,0,0
+Senior Data Science Manager,3.5,Andiamo,Company - Private,Casual Restaurants,"Restaurants, Bars & Food Services",132,99.0,350.5,Needham,MA,-1,1,0,0,1,0
+Group Leaders Within Geographic Data Science Section,4.3,Oak Ridge National Laboratory,Government,Federal Agencies,Government,132,99.0,3000.5,Oak Ridge,TN,77,0,0,0,0,0
+Manager of Data Science,-1.0,PeerSource,-1,-1,-1,132,99.0,-1.0,Tampa,FL,-1,0,0,0,0,0
+Data Science Mission Head,3.6,Association of Universities for Research in Astronomy,Company - Private,Colleges & Universities,Education,132,99.0,750.5,Baltimore,MD,63,0,0,0,0,0
+"Software Engineer, Data Science",4.9,Cambridge Mobile Telematics,Company - Private,Enterprise Software & Network Solutions,Information Technology,132,99.0,25.5,Cambridge,MA,10,1,0,1,0,0
+Sr. Data Science Architect,3.8,AGCO,Company - Public,Transportation Equipment Manufacturing,Manufacturing,132,99.0,10000.0,Duluth,GA,30,1,0,1,0,1
+Data Science Manager/R&D,3.8,ZS Associates,Company - Private,Consulting,Business Services,132,99.0,7500.5,Princeton,NJ,37,1,0,0,0,1
+Data Science Support (Senior),2.6,Salient CRGT,Company - Private,Enterprise Software & Network Solutions,Information Technology,132,99.0,3000.5,Mc Lean,VA,-1,0,0,0,1,0
+Director of Data Science,-1.0,Methods+Mastery LLC,Company - Private,-1,-1,132,99.0,-1.0,Dallas,TX,-1,0,0,0,0,0
+Lead Engineer - Data Science,4.0,Hearst Communications,Company - Private,Advertising & Marketing,Business Services,132,99.0,25.5,New York,NY,-1,1,0,0,0,0
+Data Science Sr Engineer,3.3,Stixis Technologies Inc,Company - Private,IT Services,Information Technology,132,99.0,125.5,Las Vegas,NV,10,1,0,1,0,0
+Data Science -Project Leader,3.9,The Aerospace Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,132,99.0,3000.5,El Segundo,CA,60,1,0,1,0,1
+Data Science Instructor,-1.0,Next Rev Technologies,Unknown,-1,-1,132,99.0,25.5,Reston,VA,-1,1,0,1,0,1
+Data Science with Python and ML,3.0,The Accuro Group,Company - Private,Staffing & Outsourcing,Business Services,132,99.0,350.5,Raleigh,NC,17,1,0,0,0,0
+Director of Health Data Science,3.7,RELX Group,Company - Public,Enterprise Software & Network Solutions,Information Technology,132,99.0,10000.0,Philadelphia,PA,140,0,0,0,0,0
+Data Science Instructor,-1.0,Tallon Recruiting & Staffing,-1,-1,-1,132,99.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+Data Science Manager,-1.0,Galecki Search Associates,Unknown,-1,-1,132,99.0,25.5,Boston,MA,-1,1,0,0,0,1
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,132,99.0,350.5,Long Beach,CA,21,1,0,0,0,0
+"Manager / Lead, Data Science & Analytics",4.0,ABIOMED,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,132,99.0,3000.5,Danvers,MA,39,1,0,0,0,0
+Data Science Manager,5.0,"Edison Software, Inc.",Company - Private,Computer Hardware & Software,Information Technology,132,99.0,125.5,San Jose,CA,-1,1,0,1,0,1
+Adjunct Faculty in Data Science,4.1,DePaul University,College / University,Colleges & Universities,Education,132,99.0,3000.5,Chicago,IL,113,0,0,0,0,0
+Director of Data Science & Analytics,3.5,Springfield Clinic,Company - Private,Health Care Services & Hospitals,Health Care,132,99.0,3000.5,Springfield,IL,81,1,0,1,1,1
+Head of Data Science & Analytics - Digital Health R&D Oncology,4.0,AstraZeneca,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,93,68.5,10000.0,Gaithersburg,MD,107,0,0,0,1,0
+Director of Data Science,4.8,KnowBe4,Company - Private,IT Services,Information Technology,93,68.5,750.5,Clearwater,FL,10,1,0,1,1,0
+Head of Data Science,5.0,EDO,Company - Private,-1,-1,93,68.5,-1.0,Los Angeles,CA,-1,1,0,0,0,0
+Data Science and Analytics,4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,93,68.5,25.5,New York,NY,-1,0,0,0,0,0
+"Data Science Instructor, Journeyman",3.8,KBR,Company - Public,Energy,"Oil, Gas, Energy & Utilities",93,68.5,10000.0,Dayton,OH,119,1,0,0,0,0
+Data Science Manager,5.0,Lily AI,Company - Private,Enterprise Software & Network Solutions,Information Technology,93,68.5,25.5,Mountain View,CA,5,1,0,1,1,1
+Data Science Temp,2.8,1-800-Flowers,Company - Public,Wholesale,Business Services,93,68.5,3000.5,New York,NY,44,0,0,0,0,0
+"Director, Strategic Research Data Science",3.8,E&A,Unknown,-1,-1,93,68.5,125.5,Houston,TX,10,0,0,0,0,0
+Data Science Engineer,-1.0,OneModel,-1,-1,-1,93,68.5,-1.0,Austin,TX,-1,1,0,1,1,1
+Data Science Instructor,3.7,General Assembly,Company - Private,Education Training Services,Education,93,68.5,750.5,Austin,TX,9,1,0,1,0,1
+Developer - Data Science,2.9,POET,Company - Private,Energy,"Oil, Gas, Energy & Utilities",93,68.5,3000.5,Sioux Falls,SD,-1,1,0,0,0,0
+Behavioral Data Science Manager,3.7,mPulse Mobile,Company - Private,Health Care Services & Hospitals,Health Care,93,68.5,125.5,Los Angeles,CA,6,0,0,0,0,0
+Assistant Professor-Data Science,4.0,University of Memphis,College / University,Colleges & Universities,Education,93,68.5,3000.5,Memphis,TN,108,0,0,0,0,0
+"Manager/Sr Manager, Data Science",4.6,Blend360,Company - Private,Consulting,Business Services,93,68.5,125.5,Columbia,MD,18,1,0,0,1,0
+Managing Consultant - Data Science,4.3,BlueOptima,Company - Private,Enterprise Software & Network Solutions,Information Technology,93,68.5,125.5,Phoenix,AZ,14,1,0,0,0,0
+Data Science Developer,3.4,Infinity Consulting Solutions,Company - Private,Staffing & Outsourcing,Business Services,93,68.5,750.5,Westmont,IL,19,1,0,0,0,0
+Domino Data science - Remote,5.0,Georgia IT Inc.,Company - Private,-1,-1,93,68.5,25.5,Alpharetta,GA,-1,0,0,0,0,0
+Phoenix Data Science – AI/ Data Science Software Engineering Lead,3.7,Bank of America,Company - Public,Banks & Credit Unions,Finance,93,68.5,10000.0,Pennington,NJ,116,1,0,1,0,1
+Position : IT Analytical Data Sciences (ADS) Platform Lead,2.5,SunRay Enterprise Inc,Company - Private,"Health, Beauty, & Fitness",Consumer Services,93,68.5,25.5,Cambridge,MA,-1,0,0,0,0,0
+Data Science Mission Head,3.6,Space Telescope Science Institute,Company - Private,Colleges & Universities,Education,93,68.5,-1.0,Baltimore,MD,-1,0,0,0,0,0
+Data Science & Tagging Analyst,2.8,Xator Corporation,Contract,IT Services,Information Technology,93,68.5,750.5,Bethesda,MD,-1,1,0,1,0,0
+Senior Digital and Data Science Manager,3.7,Takeda,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,93,68.5,10000.0,Lexington,MA,239,1,0,0,0,0
+Lead Product Manager of Data Science,3.3,Lowe's,Company - Public,Home Centers & Hardware Stores,Retail,93,68.5,10000.0,Mooresville,NC,74,0,0,0,0,0
+Director of Data Science,5.0,RS21,Company - Private,Consulting,Business Services,93,68.5,25.5,Albuquerque,NM,5,1,0,1,1,1
+"Principal Scientist, Translational Data Science",4.0,GENMAB A/S,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,93,68.5,125.5,Princeton,NJ,-1,1,0,0,1,0
+Sr. Data Science Innovation Engineer,3.3,Alteryx,Company - Public,Enterprise Software & Network Solutions,Information Technology,93,68.5,3000.5,Ann Arbor,MI,23,1,0,0,0,1
+"Senior Associate, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,93,68.5,10000.0,New York,NY,17,0,0,0,0,0
+Data Science/Quantitative Researcher,-1.0,Isaacson Search Company,Company - Private,-1,-1,93,68.5,25.5,New York,NY,-1,1,0,0,0,0
+"Data Science Manager, Messenger",4.5,Facebook,Company - Public,Internet,Information Technology,93,68.5,10000.0,Menlo Park,CA,16,0,0,0,0,0
+Head of Real-World Data Science,5.0,Genesis Research,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,93,68.5,25.5,Hoboken,NJ,11,0,0,0,0,0
+Adjunct/Part Time Faculty; School of Data Science,4.5,UNC Charlotte,College / University,Colleges & Universities,Education,93,68.5,3000.5,Charlotte,NC,71,0,0,0,0,0
+Industry Analyst -- Data Science and Strategy,3.5,GasPedal,Company - Private,Membership Organizations,Business Services,93,68.5,25.5,Austin,TX,13,0,0,0,0,0
+"Data Science Manager, Payment Acceptance - USA",4.0,Stripe,Company - Private,Internet,Information Technology,226,183.0,3000.5,San Francisco,CA,10,1,0,0,0,0
+Data Science Instructor,4.5,Novetta,Company - Private,Enterprise Software & Network Solutions,Information Technology,226,183.0,750.5,Herndon,VA,8,0,0,0,0,0
+"Sr. Associate, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,226,183.0,10000.0,Plano,TX,26,1,0,1,1,0
+VP Data Science Analytics,3.5,Green Dot Corporation,Company - Public,Financial Transaction Processing,Finance,226,183.0,3000.5,California,CA,21,0,0,0,0,0
+Data Science Analysts,4.2,"The Squires Group, Inc",Company - Private,IT Services,Information Technology,226,183.0,125.5,Norfolk,VA,25,0,0,0,0,0
+"Senior Analyst, Analytics and Data Science",2.9,JWT,Unknown,Advertising & Marketing,Business Services,226,183.0,125.5,Washington,DC,-1,0,0,0,0,0
+Principal Data Science - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,226,183.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Senior Director of Data Science,4.3,Medidata Solutions,Company - Public,Enterprise Software & Network Solutions,Information Technology,226,183.0,3000.5,New York,NY,21,0,0,0,1,0
+Data Science Practitioner,2.5,"Avacend, Inc.",Company - Private,Staffing & Outsourcing,Business Services,226,183.0,125.5,Columbus,OH,-1,1,0,0,0,0
+"Senior Associate, Data Sciences",3.4,Wavemaker,Company - Public,Advertising & Marketing,Business Services,226,183.0,7500.5,New York,NY,3,0,0,0,0,0
+Manager Data Science,2.5,CosmoProf,Subsidiary or Business Segment,Beauty & Personal Accessories Stores,Retail,226,183.0,7500.5,Denton,TX,-1,1,0,1,0,0
+Data Science Technical Lead Predictive Analytics,1.4,Bayer Inc.,Company - Private,-1,-1,226,183.0,350.5,Saint Louis,MO,-1,1,0,0,0,0
+Director of Digital Transformation and Data Science,4.0,Affinity Connection,Company - Private,Advertising & Marketing,Business Services,226,183.0,25.5,State College,PA,-1,0,0,0,0,0
+Data Science Manager,3.9,Amazon,Company - Public,Internet,Information Technology,226,183.0,10000.0,Seattle,WA,26,1,0,0,1,0
+Analytical Data Sciences (ADS) Platform Lead,3.1,"DEEGIT, INC.",Company - Private,IT Services,Information Technology,226,183.0,750.5,Somerville,MA,27,0,0,0,0,0
+"Manager, Data Science",4.1,Apple,Company - Public,Computer Hardware & Software,Information Technology,226,183.0,10000.0,Austin,TX,44,1,0,1,0,0
+Lecturer of Data Science,4.2,William & Mary,College / University,Colleges & Universities,Education,226,183.0,3000.5,Williamsburg,VA,327,1,0,0,0,0
+Professor of Data Science,4.2,U.S. Army War College,College / University,Colleges & Universities,Education,226,183.0,-1.0,Carlisle Barracks,PA,-1,0,0,0,0,0
+Data Science Lead Consultant,3.4,Allstate,Company - Public,Insurance Agencies & Brokerages,Insurance,226,183.0,10000.0,Northbrook,IL,89,1,0,0,1,0
+"Group Leader, Advanced Radiation Detection, Imaging, Data Science, and Applications",4.3,Oak Ridge National Laboratory,Government,Federal Agencies,Government,226,183.0,3000.5,Oak Ridge,TN,77,0,0,0,0,0
+Director of Development & Data Science,-1.0,Black Knight Financial Technology Solutions,-1,-1,-1,226,183.0,-1.0,Jacksonville,FL,-1,1,0,1,1,0
+Data Science Program Coordinator,4.2,University of California,College / University,Colleges & Universities,Education,226,183.0,10000.0,San Diego,CA,152,0,0,0,0,0
+Director- Data Science,3.5,Discovery,Company - Public,TV Broadcast & Cable Networks,Media,226,183.0,10000.0,New York,NY,35,1,0,1,1,0
+"Product Manager, Panel Data Science",3.9,Numerator,Company - Private,IT Services,Information Technology,226,183.0,3000.5,Chicago,IL,16,0,0,0,0,0
+Scientific Software and Data Science Engineer,3.1,Ionis Pharmaceuticals,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,226,183.0,350.5,Carlsbad,CA,31,1,0,0,1,0
+"Analyst II, Data Science",-1.0,Liberty Mutual Insurance Europe Ltd.,-1,-1,-1,226,183.0,-1.0,Boston,MA,-1,1,0,0,0,0
+Data Science Manager (Multiple Positions),-1.0,Accenture Contractor Jobs,-1,-1,-1,226,183.0,-1.0,Boston,MA,-1,0,0,0,0,0
+"Computational Biologist, Data Sciences",4.1,Dana-Farber Cancer Institute,Nonprofit Organization,Health Care Services & Hospitals,Health Care,226,183.0,3000.5,Boston,MA,73,1,0,0,0,0
+Software Engineer - Data Science,4.1,ClearEdge,Company - Private,Computer Hardware & Software,Information Technology,226,183.0,125.5,Annapolis Junction,MD,18,1,0,1,0,1
+"Group Director, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,226,183.0,10000.0,New York,NY,17,0,0,0,0,0
+"Senior Product Manager, Data Science",2.8,Chewy,Company - Public,Pet & Pet Supplies Stores,Retail,226,183.0,10000.0,Fort Lauderdale,FL,9,1,0,0,0,0
+"Product Manager, Data Science",4.0,Yum! Brands,Company - Public,Fast-Food & Quick-Service Restaurants,"Restaurants, Bars & Food Services",226,183.0,10000.0,Plano,TX,23,0,0,0,0,0
+"Analyst, Data Science, Solaria Labs",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,94,73.5,10000.0,Boston,MA,108,1,0,0,1,1
+Data Science All Star Program - Marketing Analytics Track,4.6,Blend360,Company - Private,Consulting,Business Services,94,73.5,125.5,Columbia,MD,18,0,0,0,0,0
+Data Science Senior Manager,3.1,Safeway Inc,Company - Private,Grocery Stores & Supermarkets,Retail,94,73.5,10000.0,Pleasanton,CA,105,1,0,1,0,1
+"Head of Data Science, SMB",5.0,Instagram,Unknown,-1,-1,94,73.5,10000.0,San Francisco,CA,-1,0,0,0,0,1
+Computer and Data Science Faculty,3.8,Willamette University,College / University,Colleges & Universities,Education,94,73.5,750.5,Salem,OR,178,0,0,0,0,0
+Data Analytics & Data Science Lead,-1.0,Apton Inc,Company - Public,-1,-1,94,73.5,25.5,McLean,VA,8,0,0,0,0,0
+TSV Engineering & Data Science Program Manager,4.4,Two Sigma,Company - Private,Investment Banking & Asset Management,Finance,94,73.5,3000.5,New York,NY,19,0,0,0,0,0
+"Mgr, Data Science",3.3,Cedent Consulting Inc,Company - Private,Consulting,Business Services,94,73.5,25.5,Tampa,FL,-1,0,0,0,0,0
+"Director, Data Science & Forecasting",3.9,ONCOLOGY,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94,73.5,10000.0,East Hanover,NJ,24,0,0,0,0,0
+Data Science & Analytics Lead,4.0,Abiomed,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,94,73.5,3000.5,Danvers,MA,39,1,0,0,0,0
+Head of Data Science Insights & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,94,73.5,25.5,Austin,TX,-1,1,0,0,0,1
+Manager of Data Science,4.0,Core Digital Media,Company - Private,Internet,Information Technology,94,73.5,125.5,Los Angeles,CA,21,1,0,0,1,0
+Data Science Lead,4.5,Dynatrace,Company - Public,Computer Hardware & Software,Information Technology,94,73.5,3000.5,Detroit,MI,15,0,0,0,0,0
+Lead Data Science Instructor,3.7,General Assembly,Company - Private,Education Training Services,Education,94,73.5,750.5,Washington,DC,9,1,0,1,0,1
+"Director of Data Science, Peacock",3.8,NBC Universal,Company - Public,TV Broadcast & Cable Networks,Media,94,73.5,10000.0,New York,NY,114,1,0,1,0,0
+Lead Senior Data Science,3.4,The Trade Desk,Company - Public,Internet,Information Technology,94,73.5,3000.5,New York,NY,11,1,0,1,1,0
+Director of Data Science,3.6,Gemini,Company - Private,Brokerage Services,Finance,94,73.5,125.5,New York,NY,5,1,0,1,0,1
+"Head, Data Science & Analytics",3.2,Human Care Systems,Company - Private,Health Care Services & Hospitals,Health Care,94,73.5,125.5,Boston,MA,12,1,0,1,1,1
+Chair of Responsible Data Science,3.8,University of Virginia Health System,Hospital,Health Care Services & Hospitals,Health Care,94,73.5,7500.5,Charlottesville,VA,195,0,0,0,0,0
+"Staff Vice President, Data Science",3.3,Centene Corporation,Company - Public,Insurance Carriers,Insurance,94,73.5,10000.0,Clayton,MO,36,0,0,0,0,0
+Data Science / Analytics Developer,5.0,Resolute Technologies,Company - Private,Federal Agencies,Government,94,73.5,125.5,Baltimore,MD,7,1,0,0,0,0
+"Data Science Lead, Core",3.0,Bond,Company - Private,Financial Analytics & Research,Finance,94,73.5,25.5,San Francisco,CA,1,1,0,0,0,0
+"Associate Consultant, Data Science",4.0,Mather Economics,Company - Private,-1,-1,94,73.5,25.5,Atlanta,GA,-1,1,0,1,0,1
+Data Science Solutions Architect,3.8,Bloomberg,Company - Private,Computer Hardware & Software,Information Technology,94,73.5,10000.0,New York,NY,39,1,0,1,1,0
+Adjunct Lecturer in Data Science,4.2,William & Mary,College / University,Colleges & Universities,Education,94,73.5,3000.5,Williamsburg,VA,327,0,0,0,0,0
+Data Science & Tagging Analyst (Senior),3.7,DynCorp International,Company - Private,Aerospace & Defense,Aerospace & Defense,94,73.5,10000.0,Bethesda,MD,74,1,0,1,0,0
+"Mgr, Data Science",-1.0,CEDENT,Contract,Computer Hardware & Software,Information Technology,94,73.5,25.5,Tampa,FL,-1,0,0,0,0,0
+"Mgr, Data Science",2.9,The Auto Club Group,Other Organization,Insurance Agencies & Brokerages,Insurance,94,73.5,7500.5,Tampa,FL,118,0,0,0,0,0
+"Director, Data Science Program",3.9,Loyola College in Maryland,College / University,Colleges & Universities,Education,94,73.5,3000.5,Baltimore,MD,168,0,0,0,0,0
+"Sr. Data Science Analyst, Data Science Accelerator Program",3.5,Truist,Company - Public,Investment Banking & Asset Management,Finance,94,73.5,10000.0,Atlanta,GA,1,0,0,0,0,0
+Senior Data Science,3.8,Zoom Information Inc.,Company - Public,Computer Hardware & Software,Information Technology,94,73.5,3000.5,Vancouver,WA,20,0,0,0,0,1
+Data Science Team Developer,4.7,M9 Solutions,Company - Private,IT Services,Information Technology,94,73.5,125.5,San Antonio,TX,13,1,0,1,0,0
+"Director, Data Science",3.8,Marqeta,Company - Private,Financial Transaction Processing,Finance,144,115.0,350.5,Remote,Remote,10,0,0,0,1,0
+"Analyst II, Data Science",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,144,115.0,10000.0,Boston,MA,108,1,0,0,0,0
+Lead Data Science Analyst - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,144,115.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Manager for Artificial Intelligence company,3.5,Andiamo,Company - Private,Casual Restaurants,"Restaurants, Bars & Food Services",144,115.0,350.5,San Francisco,CA,-1,0,0,0,1,1
+Director - Data Science,3.6,Humana,Company - Public,Insurance Carriers,Insurance,144,115.0,10000.0,Irving,TX,59,0,0,0,0,0
+"Manager, Data Science - Horsham",3.6,Optum,Company - Public,Health Care Services & Hospitals,Health Care,144,115.0,10000.0,Philadelphia,PA,43,1,0,1,0,1
+Director of Data Science,3.6,Optum,Company - Public,Health Care Services & Hospitals,Health Care,144,115.0,10000.0,Minnesota,MN,43,0,0,0,0,0
+Mgr - Director of Data Science,3.3,Addison Group,Company - Private,Staffing & Outsourcing,Business Services,144,115.0,750.5,Washington,DC,21,0,0,1,0,1
+"Director, Data Science",3.4,Gilead Sciences,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,144,115.0,10000.0,Foster City,CA,33,1,0,0,1,1
+"Manager, Data Sciences",3.4,Wavemaker,Company - Public,Advertising & Marketing,Business Services,144,115.0,7500.5,New York,NY,3,1,0,0,0,0
+"Manager, Data Science - IHM",3.8,Discover,Company - Public,Financial Transaction Processing,Finance,144,115.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science & Tagging Analyst,3.0,CENTRA Technology,Company - Private,IT Services,Information Technology,144,115.0,350.5,Bethesda,MD,-1,1,0,1,0,0
+Data Scientist/Data Science Instructor,4.9,NYC Data Science Academy,Company - Private,Education Training Services,Education,144,115.0,25.5,New York,NY,6,1,0,0,0,0
+Principal Data Science -IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,144,115.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Advisor,3.5,Public Health Institute,Nonprofit Organization,Health Fundraising Organizations,Non-Profit,144,115.0,750.5,Arlington,VA,56,1,0,0,0,0
+Manager Data Science - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,144,115.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Instructional Designer,-1.0,Tallon Recruiting & Staffing,-1,-1,-1,144,115.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+Data Science with Strong Python Knowledge,3.9,Diverse Lynx,Company - Private,IT Services,Information Technology,144,115.0,750.5,Phoenix,AZ,18,1,0,1,0,0
+Automation Engineer - Data Science,4.4,Spark Digital,Company - Private,IT Services,Information Technology,144,115.0,350.5,New York,NY,9,1,0,1,1,0
+Analytics and Data Science Specialist,4.4,Campus Crusade for Christ,Nonprofit Organization,Religious Organizations,Non-Profit,144,115.0,7500.5,Orlando,FL,69,1,0,0,1,0
+Data Science Manager,3.7,LyondellBasell,Company - Public,Chemical Manufacturing,Manufacturing,144,115.0,10000.0,Houston,TX,13,1,0,0,0,0
+Data Science Engineering Lead,3.1,MUFG,Company - Public,Banks & Credit Unions,Finance,144,115.0,10000.0,San Francisco,CA,156,1,0,0,1,0
+Data Science Specialist,3.3,ICW Group,Company - Private,Insurance Carriers,Insurance,144,115.0,750.5,San Diego,CA,48,1,0,0,0,0
+"Director, Data Science",3.8,Zoom Information Inc.,Company - Public,Computer Hardware & Software,Information Technology,144,115.0,3000.5,Vancouver,WA,20,0,0,0,0,0
+"Manager, Recruiting Data Science",3.9,Amazon,Company - Public,Internet,Information Technology,144,115.0,10000.0,Seattle,WA,26,0,0,0,0,0
+"Sr. Manager, Data Science",3.9,Amazon,Company - Public,Internet,Information Technology,144,115.0,10000.0,Seattle,WA,26,1,0,0,0,0
+Director Data Science,3.5,Micron Technology,Company - Public,Computer Hardware & Software,Information Technology,144,115.0,10000.0,Boise,ID,42,1,0,1,0,1
+Manager of Business Intelligence and Data Science,3.8,Highgate Hotels,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,144,115.0,10000.0,New York,NY,32,1,0,0,0,0
+Data Science Instructor,4.5,"Belay Technologies, Inc",Unknown,IT Services,Information Technology,144,115.0,25.5,Columbia,MD,12,0,0,0,0,0
+"Vice President, Data Science",2.8,AAA Mid-Atlantic,Company - Private,Membership Organizations,Business Services,144,115.0,3000.5,Cincinnati,OH,118,1,0,1,1,0
+Data Science Instructor,4.0,Noblis,Nonprofit Organization,Consulting,Business Services,144,115.0,3000.5,Chantilly,VA,24,0,0,0,0,0
+Data Science Lead Analyst,4.6,VIVA USA INC,Company - Private,IT Services,Information Technology,144,115.0,125.5,Franklin Lakes,NJ,24,1,0,0,0,1
+"Manager, Data Science - Growth Machine Learning",4.6,Livongo,Company - Public,Health Care Services & Hospitals,Health Care,80,59.0,750.5,Mountain View,CA,6,1,0,0,0,0
+Data Science Manager,4.2,Upstart,Company - Private,Lending,Finance,80,59.0,350.5,San Mateo,CA,8,1,0,0,0,0
+"Director, Data Science",4.5,PagerDuty,Company - Public,Computer Hardware & Software,Information Technology,80,59.0,750.5,San Francisco,CA,11,0,0,0,0,0
+Data Science Manager,3.7,"MetLife, Inc.",Company - Public,Insurance Agencies & Brokerages,Insurance,80,59.0,10000.0,New York,NY,152,1,0,1,0,0
+Data Science & Tagging Analyst,5.0,Counter Threat Solutions,Company - Private,Consulting,Business Services,80,59.0,125.5,Bethesda,MD,5,1,0,1,0,0
+Manager Data Science,-1.0,Amazon Corporate LLC,-1,-1,-1,80,59.0,-1.0,Seattle,WA,-1,0,0,0,0,0
+"Senior Scientist, Data Science",4.4,LifeMine,Other Organization,-1,-1,80,59.0,25.5,Cambridge,MA,-1,1,0,0,1,0
+Lead Data Science Analyst,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,80,59.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+"Director, Data Science",3.2,"LivePerson, Inc.",Company - Public,Internet,Information Technology,80,59.0,3000.5,Seattle,WA,25,0,0,0,1,0
+Data Science Sr. Developer,4.1,West Monroe Partners,Company - Private,Consulting,Business Services,80,59.0,3000.5,Chicago,IL,18,1,0,1,0,0
+VP of Data Science & Analytics,3.6,Snap,Company - Public,Computer Hardware & Software,Information Technology,80,59.0,3000.5,Los Angeles,CA,9,0,0,0,0,0
+Director of Data Science,3.8,"Analysis Group, Inc.",Private Practice / Firm,Consulting,Business Services,80,59.0,3000.5,Boston,MA,39,1,0,0,1,0
+Federal - Data Science Instructor - Expert,3.9,Accenture,Company - Public,Consulting,Business Services,80,59.0,10000.0,Chantilly,VA,31,0,0,0,0,0
+"Group Director, Data Sciences",3.4,Wavemaker,Company - Public,Advertising & Marketing,Business Services,80,59.0,7500.5,New York,NY,3,0,0,0,0,0
+RM - Data Science Practitioner,2.5,"Avacend, Inc.",Company - Private,Staffing & Outsourcing,Business Services,80,59.0,125.5,Washington,DC,-1,1,0,1,0,0
+Senior Data Science Manager,3.5,Andiamo,Company - Private,Casual Restaurants,"Restaurants, Bars & Food Services",80,59.0,350.5,Needham,MA,-1,1,0,0,1,0
+"Associate Director, Data Science",3.6,Humana,Company - Public,Insurance Carriers,Insurance,80,59.0,10000.0,Irving,TX,59,1,0,0,0,1
+Head of Data Science,3.4,Voice,Company - Private,-1,-1,80,59.0,-1.0,Brooklyn,NY,-1,1,0,0,0,0
+Principal Data Science,2.6,Discover Products Inc.,Subsidiary or Business Segment,Banks & Credit Unions,Finance,80,59.0,125.5,Riverwoods,IL,-1,1,0,0,0,1
+Group Leaders Within Geographic Data Science Section,4.3,Oak Ridge National Laboratory,Government,Federal Agencies,Government,80,59.0,3000.5,Oak Ridge,TN,77,0,0,0,0,0
+Full Stack Developer - Data Science,3.4,Guidehouse,Company - Private,Consulting,Business Services,80,59.0,7500.5,Mc Lean,VA,2,1,0,0,1,0
+Azure data science,-1.0,softsnippets,-1,-1,-1,80,59.0,-1.0,Glen Allen,VA,-1,0,0,0,0,0
+Principal Engineer - Data Science,3.6,Home Depot,Subsidiary or Business Segment,Home Centers & Hardware Stores,Retail,80,59.0,10000.0,Atlanta,GA,26,1,0,0,0,0
+Director of Clinical Data Science,3.1,Magellan Health,Company - Public,Health Care Services & Hospitals,Health Care,80,59.0,10000.0,Maryland Heights,MO,51,0,0,0,1,1
+Manager of Data Science,-1.0,PeerSource,-1,-1,-1,80,59.0,-1.0,Tampa,FL,-1,0,0,0,0,0
+"Software Engineer, Data Science",4.9,Cambridge Mobile Telematics,Company - Private,Enterprise Software & Network Solutions,Information Technology,80,59.0,25.5,Cambridge,MA,10,1,0,1,0,0
+"Manager, Data Science",3.5,eBay,Company - Public,Internet,Information Technology,80,59.0,10000.0,Bellevue,WA,25,1,0,1,0,1
+"Team Leader, Data Science",3.8,Quicken Loans,Company - Private,Lending,Finance,80,59.0,10000.0,Detroit,MI,35,0,0,0,0,0
+Data Science Mission Head,3.6,Association of Universities for Research in Astronomy,Company - Private,Colleges & Universities,Education,80,59.0,750.5,Baltimore,MD,63,0,0,0,0,0
+Data Science Manager/R&D,3.8,ZS Associates,Company - Private,Consulting,Business Services,80,59.0,7500.5,Princeton,NJ,37,1,0,0,0,1
+"Manager, Data Science",3.6,Optum,Company - Public,Health Care Services & Hospitals,Health Care,80,59.0,10000.0,Horsham,PA,43,0,0,0,0,0
+Data Science Application Administrator,3.7,SAIC,Company - Public,Enterprise Software & Network Solutions,Information Technology,80,59.0,10000.0,Huntsville,AL,7,0,0,0,1,0
+"Sr Manager, Data Science - Policy & Advocacy",3.3,Reynolds American,Company - Private,Consumer Products Manufacturing,Manufacturing,107,79.0,7500.5,Winston-Salem,NC,145,0,0,0,0,0
+Data Science Manager,3.9,Autodesk,Company - Public,Computer Hardware & Software,Information Technology,107,79.0,7500.5,San Francisco,CA,38,1,0,1,0,1
+Full Stack Developer - Data Science,3.2,Navigant Consulting,Company - Private,Consulting,Business Services,107,79.0,7500.5,Mc Lean,VA,24,1,0,0,1,0
+Data Science Manager,3.2,Big Fish Games,Subsidiary or Business Segment,Video Games,Media,107,79.0,750.5,Oakland,CA,18,0,0,0,0,0
+Lead Engineer - Data Science,4.3,"Hearst Television, Inc",Company - Private,TV Broadcast & Cable Networks,Media,107,79.0,125.5,New York,NY,-1,1,0,0,0,0
+"Director, Data Sciences",3.4,Wavemaker,Company - Public,Advertising & Marketing,Business Services,107,79.0,7500.5,New York,NY,3,0,0,0,0,0
+Sr. Data Science Architect,3.8,AGCO,Company - Public,Transportation Equipment Manufacturing,Manufacturing,107,79.0,10000.0,Duluth,GA,30,1,0,1,0,1
+Data Science Instructional Designer,3.3,NT Concepts,Company - Private,IT Services,Information Technology,107,79.0,750.5,Vienna,VA,22,0,0,0,0,0
+Principal Data Science,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,107,79.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Technical Product Manager - Data Science,4.0,Hearst Communications,Company - Private,Advertising & Marketing,Business Services,107,79.0,25.5,New York,NY,-1,0,0,0,1,0
+Technical Product Manager Data Science,4.3,Hearst Television,Company - Private,TV Broadcast & Cable Networks,Media,107,79.0,125.5,Washington,DC,-1,0,0,0,1,0
+Product Manager - Data Science,3.9,The Zebra,Company - Private,Insurance Agencies & Brokerages,Insurance,107,79.0,125.5,Austin,TX,8,0,0,0,1,0
+Director of Data Science,-1.0,Methods+Mastery LLC,Company - Private,-1,-1,107,79.0,-1.0,Dallas,TX,-1,0,0,0,0,0
+Data Science Support (Senior),2.6,Salient CRGT,Company - Private,Enterprise Software & Network Solutions,Information Technology,107,79.0,3000.5,Mc Lean,VA,-1,0,0,0,1,0
+"Director, Data Science",5.0,Ateroz,Company - Public,Staffing & Outsourcing,Business Services,107,79.0,-1.0,Plano,TX,-1,1,0,1,1,1
+Data Science Support (Senior),2.6,Salient CRGT,Company - Private,Enterprise Software & Network Solutions,Information Technology,107,79.0,3000.5,Mc Lean,VA,-1,0,0,0,1,0
+Director of Data Science,3.5,Trusted Media Brands,Company - Private,Publishing,Media,107,79.0,350.5,New York,NY,100,1,0,0,0,0
+Lead Engineer - Data Science,4.0,Hearst Communications,Company - Private,Advertising & Marketing,Business Services,107,79.0,25.5,New York,NY,-1,1,0,0,0,0
+Data Science with Python and ML Skills,3.0,The Accuro Group,Company - Private,Staffing & Outsourcing,Business Services,107,79.0,350.5,Sunnyvale,CA,17,1,0,0,0,0
+Data Science Sr Engineer,3.3,Stixis Technologies Inc,Company - Private,IT Services,Information Technology,107,79.0,125.5,Las Vegas,NV,10,1,0,1,0,0
+Data Science Instructor,-1.0,Next Rev Technologies,Unknown,-1,-1,107,79.0,25.5,Reston,VA,-1,1,0,1,0,1
+Data Science -Project Leader,3.9,The Aerospace Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,107,79.0,3000.5,El Segundo,CA,60,1,0,1,0,1
+Director of Data Science Programs,3.9,Moravian College,College / University,Colleges & Universities,Education,107,79.0,350.5,Bethlehem,PA,278,0,0,0,0,0
+"Manager, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,107,79.0,10000.0,New York,NY,17,1,0,0,0,0
+Data Scientist - Data Science,-1.0,FiveTwelve,Government,-1,-1,107,79.0,25.5,Hanover,MD,-1,0,0,0,0,0
+Data Science with Python and ML,3.0,The Accuro Group,Company - Private,Staffing & Outsourcing,Business Services,107,79.0,350.5,Raleigh,NC,17,1,0,0,0,0
+Director of Health Data Science,3.7,RELX Group,Company - Public,Enterprise Software & Network Solutions,Information Technology,107,79.0,10000.0,Philadelphia,PA,140,0,0,0,0,0
+VP Data Science & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,107,79.0,25.5,Pasadena,CA,-1,0,0,0,0,0
+Data Science Manager,-1.0,Galecki Search Associates,Unknown,-1,-1,107,79.0,25.5,Boston,MA,-1,1,0,0,0,1
+Data Science Manager,4.6,Blend360,Company - Private,Consulting,Business Services,107,79.0,125.5,Columbia,MD,18,1,0,0,0,0
+Data Science Manager,-1.0,9Rooftops,-1,-1,-1,107,79.0,-1.0,Pittsburgh,PA,-1,1,0,0,1,0
+Assistant/Associate Professor in Data Science in Life Sciences,4.3,Purdue University,College / University,Colleges & Universities,Education,107,79.0,10000.0,West Lafayette,IN,151,0,0,0,0,0
+Data Science All Star Program - Data Engineer Track,4.6,Blend360,Company - Private,Consulting,Business Services,81,72.5,125.5,Columbia,MD,18,1,0,1,1,1
+Senior Director of Data Science,4.0,Discount Tire,Company - Private,Automotive Parts & Accessories Stores,Retail,81,72.5,10000.0,Scottsdale,AZ,60,1,0,0,0,0
+Albuquerque Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,81,72.5,350.5,Albuquerque,NM,13,0,0,0,0,0
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,81,72.5,350.5,Long Beach,CA,21,1,0,0,0,0
+Data Science Instructor,-1.0,Tallon Recruiting & Staffing,-1,-1,-1,81,72.5,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Director, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,81,72.5,10000.0,New York,NY,17,0,0,0,0,0
+"Manager / Lead, Data Science & Analytics",4.0,ABIOMED,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,81,72.5,3000.5,Danvers,MA,39,1,0,0,0,0
+Project Manager - Data Science and Tooling,-1.0,PRO Unlimited @ facebook,-1,-1,-1,81,72.5,-1.0,Fremont,CA,-1,0,0,0,0,0
+Head of Data Science,-1.0,Amber People,-1,-1,-1,81,72.5,-1.0,New York,NY,-1,1,0,0,0,0
+Data Science Manager,5.0,"Edison Software, Inc.",Company - Private,Computer Hardware & Software,Information Technology,81,72.5,125.5,San Jose,CA,-1,1,0,1,0,1
+"Data Science Lead, Product",3.0,Bond,Company - Private,Financial Analytics & Research,Finance,81,72.5,25.5,San Francisco,CA,1,1,0,0,0,0
+Director of Data Science & Analytics,3.5,Springfield Clinic,Company - Private,Health Care Services & Hospitals,Health Care,81,72.5,3000.5,Springfield,IL,81,1,0,1,1,1
+Adjunct Faculty in Data Science,4.1,DePaul University,College / University,Colleges & Universities,Education,81,72.5,3000.5,Chicago,IL,113,0,0,0,0,0
+"Director, Data Science & Forecasting",3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,81,72.5,3000.5,East Hanover,NJ,25,0,0,0,0,0
+"Senior Manager, Data Science",3.7,Sony Corporation,Company - Public,Consumer Products Manufacturing,Manufacturing,81,72.5,10000.0,New York,NY,74,1,0,0,0,0
+Technical Project Manager - Data Science,4.0,Hearst Communications,Company - Private,Advertising & Marketing,Business Services,81,72.5,25.5,New York,NY,-1,0,0,0,1,0
+"Head, Data Science & Analytics",-1.0,Humancaresystems,-1,-1,-1,81,72.5,-1.0,Boston,MA,-1,1,0,1,1,1
+Data Science Program Coordinator,4.3,UC San Diego,College / University,Colleges & Universities,Education,81,72.5,10000.0,San Diego,CA,60,0,0,0,0,0
+Vice President - Data Science,3.0,Engine Group,Company - Private,Advertising & Marketing,Business Services,81,72.5,750.5,Cincinnati,OH,-1,1,0,0,0,0
+Data Science Lead Instructor,3.8,Coding Dojo,Company - Private,Education Training Services,Education,81,72.5,125.5,Bellevue,WA,8,1,0,0,0,0
+Data Science Instructor - Expert,3.1,Valiant Integrated Services,Company - Private,Aerospace & Defense,Aerospace & Defense,81,72.5,750.5,McLean,VA,-1,0,0,0,0,0
+Senior Data Science Engineer,4.7,Valkyrie Intelligence,Company - Private,Computer Hardware & Software,Information Technology,81,72.5,25.5,Austin,TX,3,1,0,0,0,0
+Senior Data Science Engineer,4.5,ClimaCell,Company - Private,Research & Development,Business Services,81,72.5,125.5,Boulder,CO,5,1,0,0,1,0
+Data Science Manager,4.4,Infinite Resource Solutions,Company - Private,Consulting,Business Services,81,72.5,125.5,Atlanta,GA,7,1,0,1,0,1
+Director of Data Science,4.5,Smith Hanley Associates,Company - Private,Staffing & Outsourcing,Business Services,81,72.5,25.5,Fort Washington,PA,40,1,0,0,0,0
+"Executive Director, Data Science Initiative",4.0,University of Chicago,College / University,Colleges & Universities,Education,81,72.5,10000.0,Chicago,IL,130,0,0,0,0,0
+Principal Generalist Role -Data Science,3.2,"LivePerson, Inc.",Company - Public,Internet,Information Technology,81,72.5,3000.5,Seattle,WA,25,0,0,1,1,0
+Data Science teaching assistant,4.1,IntelliPro Group Inc.,Company - Private,-1,-1,81,72.5,350.5,Santa Clara,CA,-1,1,0,1,0,0
+IT Data Science Analyst,4.1,Kforce,Company - Public,Staffing & Outsourcing,Business Services,81,72.5,10000.0,San Antonio,TX,54,0,0,0,0,0
+Director of Data Science - Telecommute,-1.0,Optum Operations,-1,-1,-1,81,72.5,-1.0,Saint Paul,MN,-1,1,0,1,0,1
+Data Science Instructor,4.1,IntelliPro Group Inc.,Company - Private,-1,-1,81,72.5,350.5,Santa Clara,CA,-1,1,0,0,0,0
+"UM - Director, Data Science",3.6,IPG Mediabrands,Subsidiary or Business Segment,Advertising & Marketing,Business Services,81,72.5,10000.0,Los Angeles,CA,13,1,0,0,0,0
+"Senior Data Scientist, Data Science Operations",3.4,Squarespace,Company - Private,Internet,Information Technology,181,146.0,3000.5,New York,NY,17,1,0,0,1,0
+Data Science Division - Executive Assistant to Division VP/Director II,3.3,CNA Corporation,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,181,146.0,750.5,Arlington,VA,78,0,0,0,1,0
+"Director, Data Sciences",3.9,CFD Research Corporation,Company - Private,Aerospace & Defense,Aerospace & Defense,181,146.0,125.5,Huntsville,AL,34,0,0,0,0,0
+"Director, Data Science",3.7,FCB Global,Subsidiary or Business Segment,Advertising & Marketing,Business Services,181,146.0,3000.5,New York,NY,147,1,0,0,0,0
+"Adjunct Instructor, Data Science",4.1,Des Moines Area Community College,College / University,Colleges & Universities,Education,181,146.0,750.5,Des Moines,IA,54,0,0,0,0,0
+Director Data Scientist - Data Science Hub,3.6,USAA,Company - Private,Insurance Carriers,Insurance,181,146.0,10000.0,Phoenix,AZ,98,1,0,0,0,0
+"Manager, Data Science",3.7,"Advanced Recovery Systems, LLC",Company - Private,Health Care Services & Hospitals,Health Care,181,146.0,750.5,Winter Park,FL,-1,1,0,1,1,1
+Data Science Team Developer,3.5,CompQsoft,Company - Private,Consulting,Business Services,181,146.0,125.5,San Antonio,TX,23,1,0,1,0,0
+Data Science Instructor,3.3,NT Concepts,Company - Private,IT Services,Information Technology,181,146.0,750.5,Vienna,VA,22,0,0,0,0,0
+"Consultant / Sr. Consultant, Data Science",3.8,Fresh Gravity,Company - Private,IT Services,Information Technology,181,146.0,125.5,Arlington,VA,5,1,0,0,0,0
+Postdoctoral Appointment - Data Science,4.3,Argonne National Laboratory,Nonprofit Organization,Federal Agencies,Government,181,146.0,3000.5,Lemont,IL,74,0,0,0,0,0
+Data Science Manager,-1.0,"Vortexlink, Inc.",-1,-1,-1,181,146.0,-1.0,Mountain View,CA,-1,1,0,1,0,0
+Data Science Director,3.6,Verisk Analytics,Company - Public,Research & Development,Business Services,181,146.0,7500.5,Boston,MA,49,1,0,1,1,0
+Data Science Director,3.6,TRANZACT,Company - Private,Advertising & Marketing,Business Services,181,146.0,3000.5,Fort Lee,NJ,31,1,0,0,0,0
+Data Science Manager,3.5,CGB Enterprises,Company - Private,Logistics & Supply Chain,Transportation & Logistics,181,146.0,3000.5,New Orleans,LA,50,1,0,0,0,1
+"Sr Business Analyst, Data Science",3.6,Jackson Hewitt,Company - Private,Other Retail Stores,Retail,181,146.0,350.5,Jersey City,NJ,38,1,0,1,1,0
+Data Science Manager,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,181,146.0,350.5,Pittsburgh,PA,21,1,0,0,1,0
+Manager of Data Science/Analytics,3.1,Production Resource Group,Company - Private,Audiovisual,"Arts, Entertainment & Recreation",181,146.0,3000.5,Dallas,TX,25,1,0,0,0,0
+"Senior Analyst, Data Science",-1.0,"Rainmaker Resources, LLC",Company - Private,-1,-1,181,146.0,25.5,Cincinnati,OH,-1,1,0,0,0,1
+Software Engineer - Data Science,4.1,Datadog,Company - Public,Computer Hardware & Software,Information Technology,181,146.0,3000.5,New York,NY,10,1,0,0,0,0
+Director of Health Data Science,3.4,Elsevier,Subsidiary or Business Segment,Publishing,Media,181,146.0,7500.5,Philadelphia,PA,140,0,0,0,0,0
+Director of Data Science,3.1,Vail Resorts,Company - Public,Sports & Recreation,"Arts, Entertainment & Recreation",181,146.0,10000.0,Broomfield,CO,58,1,0,0,1,0
+Sr. Data Science Engineer,3.7,Xoriant Corporation,Company - Private,IT Services,Information Technology,181,146.0,3000.5,Pleasanton,CA,30,1,0,1,0,0
+Sr Data Science Analyst,3.7,Aflac,Company - Public,Insurance Carriers,Insurance,181,146.0,7500.5,Columbus,GA,65,0,0,0,0,0
+"Manager, Data Science & Analytics",4.1,Kforce,Company - Public,Staffing & Outsourcing,Business Services,181,146.0,10000.0,Atlanta,GA,54,1,0,0,0,0
+Technical Lead - Data Science,-1.0,Falkon AI,-1,-1,-1,181,146.0,-1.0,Seattle,WA,-1,0,0,0,0,0
+Data Science Sr. Manager,3.7,Citi,Company - Public,Investment Banking & Asset Management,Finance,181,146.0,10000.0,New Castle,DE,208,0,0,0,0,0
+"Assistant Professor, Data Science",4.4,University of Delaware,College / University,Colleges & Universities,Education,181,146.0,3000.5,Newark,NJ,277,0,0,0,0,0
+Data Science Lead Analyst,3.9,Ampcus Incorporated,Company - Private,Consulting,Business Services,181,146.0,750.5,New Jersey,NJ,16,0,0,0,0,0
+Data Science Manager,3.7,XPO,Company - Public,Transportation Management,Transportation & Logistics,181,146.0,10000.0,Lebanon,IN,9,1,0,0,0,0
+DATA SCIENCE 2,-1.0,VULTUSINC,-1,-1,-1,181,146.0,-1.0,Bell,CA,-1,1,0,1,0,0
+Data Science Manager,4.4,"Vitaver & Associates, Inc.",Contract,Staffing & Outsourcing,Business Services,181,146.0,25.5,Tampa,FL,27,0,0,0,0,0
+"Software Engineer in Test, Data Science & Analytics - San Mateo, CA",4.1,Guidewire Software,Company - Public,Computer Hardware & Software,Information Technology,108,86.0,3000.5,San Mateo,CA,19,1,0,0,1,0
+Head of Data Science,4.8,Clari,Company - Private,Computer Hardware & Software,Information Technology,108,86.0,350.5,Sunnyvale,CA,8,1,0,1,0,0
+Sr Data Science Engineer,4.6,NewWave Technologies,Company - Private,Wholesale,Business Services,108,86.0,125.5,Boston,MA,28,1,0,0,1,0
+Director of Data Science and Innovation,3.5,Robert Half,Company - Public,Staffing & Outsourcing,Business Services,108,86.0,10000.0,Manchester,NH,72,1,0,1,0,1
+"Manager, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,108,86.0,10000.0,McLean,VA,26,1,0,1,1,0
+"Manager, Data Science",3.3,CarMax,Company - Public,Vehicle Dealers,Retail,108,86.0,10000.0,Richmond,VA,27,1,0,0,0,0
+Sr Manager of Data Science,3.4,Thermo Fisher Scientific,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,86.0,10000.0,Carlsbad,CA,118,1,0,1,1,0
+Data Science Manager,3.4,Plymouth Rock Assurance,Company - Private,Insurance Carriers,Insurance,108,86.0,3000.5,Woodbridge,NJ,38,0,0,0,0,0
+Sr Data Science Consultant,4.0,Axis Group,Company - Private,IT Services,Information Technology,108,86.0,125.5,New Jersey,NJ,24,1,0,1,0,1
+Senior Data Science Engineer,3.2,iHeartMedia,Company - Public,Radio,Media,108,86.0,10000.0,Nashville,TN,48,1,0,1,0,1
+Data Science Manager,-1.0,Amazon Corporate LLC,-1,-1,-1,108,86.0,-1.0,Seattle,WA,-1,1,0,0,1,0
+Data Science Program Coordinator,3.7,University of California - San Diego Medical Centers,Hospital,Health Care Services & Hospitals,Health Care,108,86.0,10000.0,San Diego,CA,54,0,0,0,0,0
+Data Science Manager,-1.0,Sphere Software LLC,Company - Private,-1,-1,108,86.0,25.5,New York,NY,-1,0,0,0,0,0
+Data Science Deliveries Design Leader - CVP,3.5,New York Life Insurance Co,Company - Private,Insurance Agencies & Brokerages,Insurance,108,86.0,10000.0,New York,NY,175,1,0,1,0,1
+"Senior Manager, Data Science",3.9,Regeneron,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,86.0,7500.5,Sleepy Hollow,NY,32,1,0,1,1,0
+Data Science Architect,-1.0,Nomi Health,Company - Private,-1,-1,108,86.0,-1.0,Austin,TX,-1,1,0,0,1,0
+Postdoctoral Fellow - Translational Data Science,4.0,INSTITUTE FOR SYSTEMS,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,86.0,125.5,Seattle,WA,20,1,0,0,0,0
+Data Science Team Lead,3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,108,86.0,3000.5,San Antonio,TX,25,1,0,1,0,0
+Azure Data Science Engineer,3.9,Diverse Lynx,Company - Private,IT Services,Information Technology,108,86.0,750.5,Grand Rapids,MI,18,0,0,0,0,0
+Data Science Sr. Analyst,4.5,Radiant Digital,Company - Private,-1,-1,108,86.0,25.5,Dallas,TX,-1,1,0,0,0,0
+Senior Data Science Architect,4.1,West Monroe Partners,Company - Private,Consulting,Business Services,108,86.0,3000.5,Chicago,IL,18,1,0,0,0,1
+VP of Data Science & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,108,86.0,25.5,Newport,KY,-1,0,0,0,0,0
+Data Science Instructor,3.8,UCLA Extension,College / University,Colleges & Universities,Education,108,86.0,350.5,Los Angeles,CA,-1,1,0,0,0,1
+Data Science Director,4.0,Ezra Penland Actuarial Recruitment,Company - Private,Staffing & Outsourcing,Business Services,108,86.0,-1.0,Chicago,IL,-1,0,0,0,0,0
+Director of Data Science,3.7,"DriveTime Automotive Group, Inc.",Company - Private,Vehicle Dealers,Retail,108,86.0,7500.5,Tempe,AZ,18,0,0,0,0,0
+"Director, Data Science - VP",3.7,FCB Global,Subsidiary or Business Segment,Advertising & Marketing,Business Services,108,86.0,3000.5,New York,NY,147,1,0,0,0,0
+"Senior Data Science Engineer, PySpark (REMOTE)",4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,108,86.0,350.5,San Jose,CA,21,1,0,1,0,1
+"Manager, Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,108,86.0,-1.0,Seattle,WA,-1,1,0,0,0,0
+"Software Engineer, Data Science",3.6,"LockerDome, Inc.",Company - Private,Internet,Information Technology,108,86.0,125.5,Saint Louis,MO,12,0,0,0,0,0
+"Associate Director, Data Science",3.5,Veracyte,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,108,86.0,350.5,South San Francisco,CA,12,1,0,0,0,1
+"Principal Analyst, Data Science",-1.0,"Rainmaker Resources, LLC",Company - Private,-1,-1,108,86.0,25.5,Cincinnati,OH,-1,0,0,0,0,0
+Product Manager - Data Science,4.5,Progressive Leasing,Subsidiary or Business Segment,Financial Transaction Processing,Finance,108,86.0,3000.5,Draper,UT,21,0,0,0,1,0
+Data Science Analyst/Engineer,4.0,NYU Langone Health,Hospital,Health Care Services & Hospitals,Health Care,127,100.0,10000.0,New York,NY,179,1,0,1,0,1
+Research Analyst (Data Science),3.4,APCO Worldwide,Company - Private,Consulting,Business Services,127,100.0,750.5,New York,NY,36,0,0,0,0,0
+Senior Data Science & Tagging Analyst,3.7,SAIC,Company - Public,Enterprise Software & Network Solutions,Information Technology,127,100.0,10000.0,Bethesda,MD,7,1,0,1,0,0
+"Director of Data Science, Safe Haven",4.6,LiveRamp,Company - Public,Computer Hardware & Software,Information Technology,127,100.0,3000.5,San Francisco,CA,15,1,0,1,0,0
+VP Data Science & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,127,100.0,25.5,Pasadena,CA,-1,0,0,0,0,0
+Data Science Manager,-1.0,Galecki Search Associates,Unknown,-1,-1,127,100.0,25.5,Boston,MA,-1,1,0,0,0,1
+Technology Lead | data science | Machine Learning,3.9,Kaygen Inc.,Company - Private,Consulting,Business Services,127,100.0,25.5,Richardson,TX,-1,1,0,0,1,0
+Data Science Manager,4.6,Blend360,Company - Private,Consulting,Business Services,127,100.0,125.5,Columbia,MD,18,1,0,0,0,0
+Data Science Manager,-1.0,9Rooftops,-1,-1,-1,127,100.0,-1.0,Pittsburgh,PA,-1,1,0,0,1,0
+Technical Project Manager - Data Science,4.3,"Hearst Television, Inc",Company - Private,TV Broadcast & Cable Networks,Media,127,100.0,125.5,New York,NY,-1,0,0,0,1,0
+Assistant/Associate Professor in Data Science in Life Sciences,4.3,Purdue University,College / University,Colleges & Universities,Education,127,100.0,10000.0,West Lafayette,IN,151,0,0,0,0,0
+Albuquerque Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,127,100.0,350.5,Albuquerque,NM,13,0,0,0,0,0
+Data Science Instructor,-1.0,Tallon Recruiting & Staffing,-1,-1,-1,127,100.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Director, Data Sciences",3.5,GroupM,Subsidiary or Business Segment,Publishing,Media,127,100.0,10000.0,New York,NY,17,0,0,0,0,0
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,127,100.0,350.5,Long Beach,CA,21,1,0,0,0,0
+"Product Manager, Machine Learning & Data Science",4.0,Total Expert,Company - Private,Enterprise Software & Network Solutions,Information Technology,127,100.0,350.5,Saint Louis Park,MN,8,1,0,0,0,0
+"Manager / Lead, Data Science & Analytics",4.0,ABIOMED,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,127,100.0,3000.5,Danvers,MA,39,1,0,0,0,0
+Head of Data Science,-1.0,Amber People,-1,-1,-1,127,100.0,-1.0,New York,NY,-1,1,0,0,0,0
+Project Manager - Data Science and Tooling,-1.0,PRO Unlimited @ facebook,-1,-1,-1,127,100.0,-1.0,Fremont,CA,-1,0,0,0,0,0
+"Data Science Lead, Product",3.0,Bond,Company - Private,Financial Analytics & Research,Finance,127,100.0,25.5,San Francisco,CA,1,1,0,0,0,0
+Data Science Manager,5.0,"Edison Software, Inc.",Company - Private,Computer Hardware & Software,Information Technology,127,100.0,125.5,San Jose,CA,-1,1,0,1,0,1
+School of Data Science Faculty Wage,3.8,University of Virginia Health System,Hospital,Health Care Services & Hospitals,Health Care,127,100.0,7500.5,Virginia,VA,195,0,0,0,0,0
+Adjunct Faculty in Data Science,4.1,DePaul University,College / University,Colleges & Universities,Education,127,100.0,3000.5,Chicago,IL,113,0,0,0,0,0
+"Senior Manager, Data Science",3.7,Sony Corporation,Company - Public,Consumer Products Manufacturing,Manufacturing,127,100.0,10000.0,New York,NY,74,1,0,0,0,0
+Director of Data Science & Analytics,3.5,Springfield Clinic,Company - Private,Health Care Services & Hospitals,Health Care,127,100.0,3000.5,Springfield,IL,81,1,0,1,1,1
+"Director, Data Science & Forecasting",3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,127,100.0,3000.5,East Hanover,NJ,25,0,0,0,0,0
+"System Administrator (Python, Linux, Data Science, PySpark)",3.7,"Redolent, Inc",Company - Private,"Health, Beauty, & Fitness",Consumer Services,127,100.0,25.5,Sunnyvale,CA,-1,1,0,1,0,1
+Technical Project Manager - Data Science,4.0,Hearst Communications,Company - Private,Advertising & Marketing,Business Services,127,100.0,25.5,New York,NY,-1,0,0,0,1,0
+Open Rank Professor - Data Science and Assistant Professor,4.1,Worcester Polytechnic Institute,College / University,Colleges & Universities,Education,127,100.0,3000.5,Worcester,MA,155,0,0,0,0,0
+JTC_Technology Lead | data science | Machine Learnin,4.0,SOFTHQ INC,Company - Private,Computer Hardware & Software,Information Technology,127,100.0,125.5,Richardson,TX,10,1,0,0,1,0
+"Head, Data Science & Analytics",-1.0,Humancaresystems,-1,-1,-1,127,100.0,-1.0,Boston,MA,-1,1,0,1,1,1
+Data Science Program Coordinator,4.3,UC San Diego,College / University,Colleges & Universities,Education,127,100.0,10000.0,San Diego,CA,60,0,0,0,0,0
+Data Science Support Analyst (Journeyman),3.6,BAE Systems USA,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,147,118.0,10000.0,McLean,VA,21,0,0,0,0,0
+Business Development Leader - Data Science Solutions,4.6,Blend360,Company - Private,Consulting,Business Services,147,118.0,125.5,Columbia,MD,18,0,0,0,0,0
+Vice President - Data Science,3.0,Engine Group,Company - Private,Advertising & Marketing,Business Services,147,118.0,750.5,Cincinnati,OH,-1,1,0,0,0,0
+"Sr. Analyst, Data Science",3.5,Lincoln Financial,Company - Public,Insurance Carriers,Insurance,147,118.0,10000.0,Phoenix,AZ,115,1,0,1,0,1
+Part Time Data Science Instructor (Data Science Bootcamp) - Promotable,-1.0,1871 Member Companies,-1,-1,-1,147,118.0,-1.0,Chicago,IL,-1,1,0,0,0,0
+Senior Data Science Analyst,2.9,PETCO,Company - Private,Pet & Pet Supplies Stores,Retail,147,118.0,10000.0,San Antonio,TX,55,1,0,0,0,0
+Data Science Lead Instructor,3.8,Coding Dojo,Company - Private,Education Training Services,Education,147,118.0,125.5,Bellevue,WA,8,1,0,0,0,0
+Software Developer - Data Science (HCTRA),3.0,Peterson Sullivan,Private Practice / Firm,-1,-1,147,118.0,25.5,Houston,TX,-1,1,0,0,1,0
+Data Science Instructor - Expert,3.1,Valiant Integrated Services,Company - Private,Aerospace & Defense,Aerospace & Defense,147,118.0,750.5,McLean,VA,-1,0,0,0,0,0
+"Data Science Consultant (Princeton, NJ)",3.8,ZS Associates,Company - Private,Consulting,Business Services,147,118.0,7500.5,Princeton,NJ,37,1,0,0,0,1
+Senior Data Science Engineer,4.5,ClimaCell,Company - Private,Research & Development,Business Services,147,118.0,125.5,Boulder,CO,5,1,0,0,1,0
+"Senior SW Engineer, Data Science",3.4,FireEye Inc,Company - Public,Computer Hardware & Software,Information Technology,147,118.0,3000.5,Raleigh,NC,16,0,0,0,0,0
+Senior Data Science Engineer,4.7,Valkyrie Intelligence,Company - Private,Computer Hardware & Software,Information Technology,147,118.0,25.5,Austin,TX,3,1,0,0,0,0
+Director of Data Science,4.5,Smith Hanley Associates,Company - Private,Staffing & Outsourcing,Business Services,147,118.0,25.5,Fort Washington,PA,40,1,0,0,0,0
+Data Science Manager,4.4,Infinite Resource Solutions,Company - Private,Consulting,Business Services,147,118.0,125.5,Atlanta,GA,7,1,0,1,0,1
+Principal Generalist Role -Data Science,3.2,"LivePerson, Inc.",Company - Public,Internet,Information Technology,147,118.0,3000.5,Seattle,WA,25,0,0,1,1,0
+"Executive Director, Data Science Initiative",4.0,University of Chicago,College / University,Colleges & Universities,Education,147,118.0,10000.0,Chicago,IL,130,0,0,0,0,0
+IT Data Science Analyst,4.1,Kforce,Company - Public,Staffing & Outsourcing,Business Services,147,118.0,10000.0,San Antonio,TX,54,0,0,0,0,0
+Data Science teaching assistant,4.1,IntelliPro Group Inc.,Company - Private,-1,-1,147,118.0,350.5,Santa Clara,CA,-1,1,0,1,0,0
+Data Science Instructor,4.1,IntelliPro Group Inc.,Company - Private,-1,-1,147,118.0,350.5,Santa Clara,CA,-1,1,0,0,0,0
+Vice President Data Science & Analytics,3.8,Northwestern Mutual,Company - Private,Brokerage Services,Finance,147,118.0,7500.5,New York,NY,163,1,0,0,0,0
+IT - Technology Lead | data science | Machine Learning,4.1,Sysmind LLC,Company - Private,Enterprise Software & Network Solutions,Information Technology,147,118.0,125.5,Richardson,TX,21,1,0,0,1,0
+Postdoctoral Fellow - Translational Data Science,3.9,INSTITUTE FOR SYSTEMS,Company - Private,Accounting,Accounting & Legal,147,118.0,25.5,Seattle,WA,-1,1,0,0,0,0
+Director of Data Science - Telecommute,-1.0,Optum Operations,-1,-1,-1,147,118.0,-1.0,Saint Paul,MN,-1,1,0,1,0,1
+Data Science Director,3.6,Willis Towers Watson,Company - Public,Consulting,Business Services,147,118.0,10000.0,Fort Lee,NJ,192,1,0,0,0,0
+"Director, Data Sciences",3.9,CFD Research Corporation,Company - Private,Aerospace & Defense,Aerospace & Defense,147,118.0,125.5,Huntsville,AL,34,0,0,0,0,0
+"UM - Director, Data Science",3.6,IPG Mediabrands,Subsidiary or Business Segment,Advertising & Marketing,Business Services,147,118.0,10000.0,Los Angeles,CA,13,1,0,0,0,0
+Assistant Professor of Statistics and Data Science,4.2,UNIVERSITY OF NEBRASKA AT OMAHA,College / University,Colleges & Universities,Education,147,118.0,10000.0,Omaha,NE,151,0,0,0,0,0
+Head of Data Science,3.1,MoTek Technologies,Company - Private,IT Services,Information Technology,147,118.0,25.5,Remote,Remote,11,1,0,1,0,1
+"Adjunct Instructor, Data Science",4.1,Des Moines Area Community College,College / University,Colleges & Universities,Education,147,118.0,750.5,Des Moines,IA,54,0,0,0,0,0
+"Director, Data Science",3.7,FCB Global,Subsidiary or Business Segment,Advertising & Marketing,Business Services,147,118.0,3000.5,New York,NY,147,1,0,0,0,0
+"Manager, Data Science",3.7,"Advanced Recovery Systems, LLC",Company - Private,Health Care Services & Hospitals,Health Care,147,118.0,750.5,Winter Park,FL,-1,1,0,1,1,1
+Developer III - Data Science,3.3,Inland Empire Health Plan,Company - Public,Health Care Services & Hospitals,Health Care,130,104.5,3000.5,Rancho Cucamonga,CA,24,0,0,0,0,0
+"Director II, Data Science - Office of Data Science",3.4,Liberty Mutual Insurance,Company - Private,Insurance Carriers,Insurance,130,104.5,10000.0,Boston,MA,108,0,0,0,0,0
+Director Data Scientist - Data Science Hub,3.6,USAA,Company - Private,Insurance Carriers,Insurance,130,104.5,10000.0,Phoenix,AZ,98,1,0,0,0,0
+Data Science Instructor,3.3,NT Concepts,Company - Private,IT Services,Information Technology,130,104.5,750.5,Vienna,VA,22,0,0,0,0,0
+Data Science Team Developer,3.5,CompQsoft,Company - Private,Consulting,Business Services,130,104.5,125.5,San Antonio,TX,23,1,0,1,0,0
+"Consultant / Sr. Consultant, Data Science",3.8,Fresh Gravity,Company - Private,IT Services,Information Technology,130,104.5,125.5,Arlington,VA,5,1,0,0,0,0
+Postdoctoral Appointment - Data Science,4.3,Argonne National Laboratory,Nonprofit Organization,Federal Agencies,Government,130,104.5,3000.5,Lemont,IL,74,0,0,0,0,0
+Data Science Manager,-1.0,"Vortexlink, Inc.",-1,-1,-1,130,104.5,-1.0,Mountain View,CA,-1,1,0,1,0,0
+Data Science Manager,3.5,CGB Enterprises,Company - Private,Logistics & Supply Chain,Transportation & Logistics,130,104.5,3000.5,New Orleans,LA,50,1,0,0,0,1
+Data Science Director,3.6,Verisk Analytics,Company - Public,Research & Development,Business Services,130,104.5,7500.5,Boston,MA,49,1,0,1,1,0
+Data Science Director,3.6,TRANZACT,Company - Private,Advertising & Marketing,Business Services,130,104.5,3000.5,Fort Lee,NJ,31,1,0,0,0,0
+Master Instructor (Data Science),4.9,Cybrary,Company - Private,IT Services,Information Technology,130,104.5,125.5,Remote,Remote,5,1,0,0,0,0
+Senior Consultant - Life Science Practice Data Science,3.4,Guidehouse,Company - Private,Consulting,Business Services,130,104.5,7500.5,San Francisco,CA,2,1,0,0,0,0
+"Lead Data Science Instructor, Data Scientist",3.9,Galvanize,Company - Private,Education Training Services,Education,130,104.5,350.5,San Francisco,CA,8,1,0,0,0,1
+"Sr Business Analyst, Data Science",3.6,Jackson Hewitt,Company - Private,Other Retail Stores,Retail,130,104.5,350.5,Jersey City,NJ,38,1,0,1,1,0
+Data Science Manager,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,130,104.5,350.5,Pittsburgh,PA,21,1,0,0,1,0
+"Senior Analyst, Data Science",-1.0,"Rainmaker Resources, LLC",Company - Private,-1,-1,130,104.5,25.5,Cincinnati,OH,-1,1,0,0,0,1
+Data Science Project Manager,3.8,Booz Allen Hamilton Inc.,Company - Public,Consulting,Business Services,130,104.5,10000.0,Washington,DC,106,1,0,0,0,0
+Manager of Data Science/Analytics,3.1,Production Resource Group,Company - Private,Audiovisual,"Arts, Entertainment & Recreation",130,104.5,3000.5,Dallas,TX,25,1,0,0,0,0
+Software Engineer - Data Science,4.1,Datadog,Company - Public,Computer Hardware & Software,Information Technology,130,104.5,3000.5,New York,NY,10,1,0,0,0,0
+"Associate Director, Biostatistics, Clinical Data Sciences",4.0,Zolon Tech,Company - Private,IT Services,Information Technology,130,104.5,350.5,Morris Plains,NJ,22,0,0,0,0,0
+Director of Health Data Science,3.4,Elsevier,Subsidiary or Business Segment,Publishing,Media,130,104.5,7500.5,Philadelphia,PA,140,0,0,0,0,0
+Director of Data Science,3.1,Vail Resorts,Company - Public,Sports & Recreation,"Arts, Entertainment & Recreation",130,104.5,10000.0,Broomfield,CO,58,1,0,0,1,0
+Sr. Data Science Engineer,3.7,Xoriant Corporation,Company - Private,IT Services,Information Technology,130,104.5,3000.5,Pleasanton,CA,30,1,0,1,0,0
+"Manager, Data Science & Analytics",4.1,Kforce,Company - Public,Staffing & Outsourcing,Business Services,130,104.5,10000.0,Atlanta,GA,54,1,0,0,0,0
+Sr Data Science Analyst,3.7,Aflac,Company - Public,Insurance Carriers,Insurance,130,104.5,7500.5,Columbus,GA,65,0,0,0,0,0
+Data Science Sr. Manager,3.7,Citi,Company - Public,Investment Banking & Asset Management,Finance,130,104.5,10000.0,New Castle,DE,208,0,0,0,0,0
+Data Science Director,4.4,"Power Advocate, Inc.",Company - Public,Energy,"Oil, Gas, Energy & Utilities",130,104.5,125.5,Boston,MA,21,1,0,1,1,0
+"Assistant Professor, Data Science",4.4,University of Delaware,College / University,Colleges & Universities,Education,130,104.5,3000.5,Newark,NJ,277,0,0,0,0,0
+Technical Lead - Data Science,-1.0,Falkon AI,-1,-1,-1,130,104.5,-1.0,Seattle,WA,-1,0,0,0,0,0
+Data Science Lead Analyst,3.9,Ampcus Incorporated,Company - Private,Consulting,Business Services,130,104.5,750.5,New Jersey,NJ,16,0,0,0,0,0
+Data Science Manager,4.6,Discord,Company - Private,Internet,Information Technology,202,165.0,350.5,San Francisco,CA,5,1,0,0,1,1
+Senior Manager of Data Science - Operations,3.7,Guild Education,Company - Private,Enterprise Software & Network Solutions,Information Technology,202,165.0,750.5,Denver,CO,5,1,0,0,0,0
+Senior Consultant - Life Science Practice Data Science,3.2,Navigant Consulting,Company - Private,Consulting,Business Services,202,165.0,7500.5,San Francisco,CA,24,1,0,0,0,0
+DATA SCIENCE 2,-1.0,VULTUSINC,-1,-1,-1,202,165.0,-1.0,Bell,CA,-1,1,0,1,0,0
+Senior Director of Data Science,4.1,Bigfoot Biomedical,Company - Private,Health Care Services & Hospitals,Health Care,202,165.0,125.5,Milpitas,CA,6,0,0,0,0,0
+Data Science Manager,4.4,"Vitaver & Associates, Inc.",Contract,Staffing & Outsourcing,Business Services,202,165.0,25.5,Tampa,FL,27,0,0,0,0,0
+Data Science Manager,3.7,XPO,Company - Public,Transportation Management,Transportation & Logistics,202,165.0,10000.0,Lebanon,IN,9,1,0,0,0,0
+"Manager, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,202,165.0,10000.0,McLean,VA,26,1,0,1,1,0
+Sr Data Science Engineer,4.6,NewWave Technologies,Company - Private,Wholesale,Business Services,202,165.0,125.5,Boston,MA,28,1,0,0,1,0
+Sr Manager Data Sciences,3.8,Amgen,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,202,165.0,10000.0,Thousand Oaks,CA,40,0,0,0,0,0
+Director of Data Science and Innovation,3.5,Robert Half,Company - Public,Staffing & Outsourcing,Business Services,202,165.0,10000.0,Manchester,NH,72,1,0,1,0,1
+Sr Manager of Data Science,3.4,Thermo Fisher Scientific,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,202,165.0,10000.0,Carlsbad,CA,118,1,0,1,1,0
+Adjunct Professor of Data Sciences and Operations,4.2,University of Southern California,College / University,Colleges & Universities,Education,202,165.0,10000.0,Los Angeles,CA,140,0,0,0,0,0
+"Manager, Data Science",3.3,CarMax,Company - Public,Vehicle Dealers,Retail,202,165.0,10000.0,Richmond,VA,27,1,0,0,0,0
+Audi Data Science Community Lead,-1.0,HRU Tech,-1,-1,-1,202,165.0,-1.0,Herndon,VA,-1,0,0,0,0,0
+Risk Data Science - Associate Director,3.4,DTCC,Company - Private,Brokerage Services,Finance,202,165.0,3000.5,Dallas,TX,47,1,0,0,1,0
+"Junior Software Engineer, Data Science",3.6,"LockerDome, Inc.",Company - Private,Internet,Information Technology,202,165.0,125.5,Saint Louis,MO,12,0,0,0,0,0
+Data Science Manager,3.4,Plymouth Rock Assurance,Company - Private,Insurance Carriers,Insurance,202,165.0,3000.5,Woodbridge,NJ,38,0,0,0,0,0
+Sr Data Science Consultant,4.0,Axis Group,Company - Private,IT Services,Information Technology,202,165.0,125.5,New Jersey,NJ,24,1,0,1,0,1
+Data Science Manager,-1.0,Amazon Corporate LLC,-1,-1,-1,202,165.0,-1.0,Seattle,WA,-1,1,0,0,1,0
+Senior Data Science Engineer,3.2,iHeartMedia,Company - Public,Radio,Media,202,165.0,10000.0,Nashville,TN,48,1,0,1,0,1
+Data Science Program Coordinator,3.7,University of California - San Diego Medical Centers,Hospital,Health Care Services & Hospitals,Health Care,202,165.0,10000.0,San Diego,CA,54,0,0,0,0,0
+Data Science Manager,-1.0,Sphere Software LLC,Company - Private,-1,-1,202,165.0,25.5,New York,NY,-1,0,0,0,0,0
+"Senior Manager, Data Science",3.9,Regeneron,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,202,165.0,7500.5,Sleepy Hollow,NY,32,1,0,1,1,0
+Operations Research Analyst/ Data Science/Assessment Analyst,3.3,Intecon,Company - Private,Aerospace & Defense,Aerospace & Defense,202,165.0,125.5,Tampa,FL,21,0,0,0,0,0
+Data Science Architect,-1.0,Nomi Health,Company - Private,-1,-1,202,165.0,-1.0,Austin,TX,-1,1,0,0,1,0
+Data Science Deliveries Design Leader - CVP,3.5,New York Life Insurance Co,Company - Private,Insurance Agencies & Brokerages,Insurance,202,165.0,10000.0,New York,NY,175,1,0,1,0,1
+Postdoctoral Fellow - Translational Data Science,4.0,INSTITUTE FOR SYSTEMS,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,202,165.0,125.5,Seattle,WA,20,1,0,0,0,0
+Azure Data Science Engineer,3.9,Diverse Lynx,Company - Private,IT Services,Information Technology,202,165.0,750.5,Grand Rapids,MI,18,0,0,0,0,0
+Senior Data Science Architect,4.1,West Monroe Partners,Company - Private,Consulting,Business Services,202,165.0,3000.5,Chicago,IL,18,1,0,0,0,1
+Data Science Team Lead,3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,202,165.0,3000.5,San Antonio,TX,25,1,0,1,0,0
+Adjunct Faculty- Data Science,2.6,Beyond Campus Innovations,Company - Private,Colleges & Universities,Education,202,165.0,25.5,Greenwood Village - Araphoe,CO,-1,1,1,1,0,1
+DATA SCIENCE & TAGGING ANALYST,3.8,Mission Essential,Company - Private,Aerospace & Defense,Aerospace & Defense,124,99.5,3000.5,Bethesda,MD,16,1,0,1,0,0
+Data Science Product Manager,3.7,MassMutual,Company - Private,Insurance Carriers,Insurance,124,99.5,7500.5,Boston,MA,169,0,0,0,0,0
+Data Science Sr. Analyst,4.5,Radiant Digital,Company - Private,-1,-1,124,99.5,25.5,Dallas,TX,-1,1,0,0,0,0
+Data Science Instructor,3.8,UCLA Extension,College / University,Colleges & Universities,Education,124,99.5,350.5,Los Angeles,CA,-1,1,0,0,0,1
+Audi Data Science Community Lead,4.0,HRU Tech,Company - Private,Staffing & Outsourcing,Business Services,124,99.5,350.5,Herndon,VA,41,0,0,0,0,0
+VP of Data Science & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,124,99.5,25.5,Newport,KY,-1,0,0,0,0,0
+Data Science Director,4.0,Ezra Penland Actuarial Recruitment,Company - Private,Staffing & Outsourcing,Business Services,124,99.5,-1.0,Chicago,IL,-1,0,0,0,0,0
+Director of Data Science,3.7,"DriveTime Automotive Group, Inc.",Company - Private,Vehicle Dealers,Retail,124,99.5,7500.5,Tempe,AZ,18,0,0,0,0,0
+"Director, Data Science - VP",3.7,FCB Global,Subsidiary or Business Segment,Advertising & Marketing,Business Services,124,99.5,3000.5,New York,NY,147,1,0,0,0,0
+"Manager, Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,124,99.5,-1.0,Seattle,WA,-1,1,0,0,0,0
+"Senior Data Science Engineer, PySpark (REMOTE)",4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,124,99.5,350.5,San Jose,CA,21,1,0,1,0,1
+"Principal Analyst, Data Science",-1.0,"Rainmaker Resources, LLC",Company - Private,-1,-1,124,99.5,25.5,Cincinnati,OH,-1,0,0,0,0,0
+"Software Engineer, Data Science",3.6,"LockerDome, Inc.",Company - Private,Internet,Information Technology,124,99.5,125.5,Saint Louis,MO,12,0,0,0,0,0
+VP of Data Science,-1.0,"Abe AI, Inc.",-1,-1,-1,124,99.5,-1.0,Orlando,FL,-1,1,0,0,0,0
+"Associate Director, Data Science",3.5,Veracyte,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124,99.5,350.5,South San Francisco,CA,12,1,0,0,0,1
+Product Manager - Data Science,4.5,Progressive Leasing,Subsidiary or Business Segment,Financial Transaction Processing,Finance,124,99.5,3000.5,Draper,UT,21,0,0,0,1,0
+Sr. Enterprise Account Exec- Data Science / ML - NYC,4.1,h2o.ai,Company - Private,Enterprise Software & Network Solutions,Information Technology,124,99.5,350.5,New York,NY,9,0,0,0,1,0
+Engineering Manager Data Science,-1.0,"J Harlan Group, LLC",Company - Private,-1,-1,124,99.5,25.5,New York,NY,-1,1,0,0,0,1
+Data Science Product Manager,-1.0,MassMutual Wisconsin,-1,-1,-1,124,99.5,-1.0,Boston,MA,-1,0,0,0,0,0
+Data Science Product Manager,3.2,Mass Mutual,Company - Public,Investment Banking & Asset Management,Finance,124,99.5,-1.0,Boston,MA,-1,0,0,0,0,0
+Datawarehouse Architect/Data Science,2.7,Vision Technologies,Company - Private,IT Services,Information Technology,124,99.5,750.5,Las Vegas,NV,20,0,0,0,0,0
+"Director, Network Optimization & Data Sciences",3.2,"7-Eleven, Inc.",Subsidiary or Business Segment,Other Retail Stores,Retail,124,99.5,10000.0,Irving,TX,93,1,0,1,0,0
+"Manager, Recruiting Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,124,99.5,-1.0,Seattle,WA,-1,0,0,0,0,0
+"Sr. Manager, Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,124,99.5,-1.0,Seattle,WA,-1,1,0,0,0,0
+"Senior Manager, Data Science",3.9,Amazon,Company - Public,Internet,Information Technology,124,99.5,10000.0,Seattle,WA,26,0,0,0,0,0
+Senior Software Engineer (Data Science),5.0,Seer,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,124,99.5,25.5,Redwood City,CA,3,1,0,0,1,0
+Data Science Team Lead,3.0,"IPSecure, Inc.",Company - Private,-1,-1,124,99.5,125.5,San Antonio,TX,-1,1,0,1,0,0
+"Manager, Data Science and ML Engineering",-1.0,Amazon Corporate LLC,-1,-1,-1,124,99.5,-1.0,Seattle,WA,-1,0,0,0,0,0
+Sr Data Science Engineer,2.6,"NewWave Telecom & Technologies, Inc.",Company - Private,IT Services,Information Technology,124,99.5,350.5,Boston,MA,16,1,0,0,1,0
+"Director, Data Science – VP",3.7,FCB Canada,Subsidiary or Business Segment,Advertising & Marketing,Business Services,124,99.5,3000.5,New York,NY,147,1,0,0,0,0
+"Senior Manager, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,124,99.5,10000.0,McLean,VA,26,1,0,1,1,0
+Phoenix Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,124,99.5,350.5,Phoenix,AZ,13,0,0,0,0,0
+Senior Data Science Analyst - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,100,87.5,10000.0,Riverwoods,IL,35,1,0,0,0,0
+Senior Data Architect - Data Science & Machine Learning,3.7,AvidXchange,Company - Private,Computer Hardware & Software,Information Technology,100,87.5,3000.5,Charlotte,NC,20,1,0,0,1,0
+Detroit Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Detroit,MI,13,0,0,0,0,0
+Austin Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Austin,TX,13,0,0,0,0,0
+Boston Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Boston,MA,13,0,0,0,0,0
+Philadelphia Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Philadelphia,PA,13,0,0,0,0,0
+Cincinnati Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Cincinnati,OH,13,0,0,0,0,0
+Seattle Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Seattle,WA,13,0,0,0,0,0
+Data Science Director,-1.0,Sphere Software LLC,Company - Private,-1,-1,100,87.5,25.5,New York,NY,-1,1,0,0,0,0
+VP of Data Science,3.0,American Credit Acceptance,Company - Private,Lending,Finance,100,87.5,750.5,Spartanburg,SC,13,0,0,0,0,0
+Federal - Data Science Instructor - Expert,-1.0,Accenture Contractor Jobs,-1,-1,-1,100,87.5,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Director, Data Science",3.7,FCB Health,Subsidiary or Business Segment,Advertising & Marketing,Business Services,100,87.5,3000.5,New York,NY,-1,1,0,0,0,0
+"Senior Software Engineer / Bioinformatics, Oncology Data Science Team",3.9,Novartis,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100,87.5,10000.0,Cambridge,MA,24,1,0,0,1,0
+Data Science Team Lead,3.5,CompQsoft,Company - Private,Consulting,Business Services,100,87.5,125.5,San Antonio,TX,23,1,0,1,0,0
+VP of Data Science,-1.0,Equation Staffing,Company - Private,-1,-1,100,87.5,25.5,New York,NY,-1,1,0,1,1,1
+Senior Software Engineer - Data Science,4.6,BHE,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,100,87.5,25.5,Boston,MA,24,1,0,1,1,0
+Senior/Manager Data Science & Analytics,4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,100,87.5,25.5,New York,NY,-1,1,0,0,0,0
+Charlotte Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Charlotte,NC,13,0,0,0,0,0
+Maryland Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Maryland City,MD,13,0,0,0,0,0
+Jacksonville Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Jacksonville,FL,13,0,0,0,0,0
+Indianapolis Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Indianapolis,IN,13,0,0,0,0,0
+Tampa Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Tampa,FL,13,0,0,0,0,0
+Chicago Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Chicago,IL,13,0,0,0,0,0
+Richmond Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Richmond,VA,13,0,0,0,0,0
+Pittsburgh Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Pittsburgh,PA,13,0,0,0,0,0
+Arlington Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Arlington,VA,13,0,0,0,0,0
+Brooklyn Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Brooklyn,NY,13,0,0,0,0,0
+Portland Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Portland,OR,13,0,0,0,0,0
+Manhattan Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,New York,NY,13,0,0,0,0,0
+Columbus Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Columbus,OH,13,0,0,0,0,0
+Cleveland Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Cleveland,OH,13,0,0,0,0,0
+Orlando Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,100,87.5,350.5,Orlando,FL,13,0,0,0,0,0
+NCI T32 Post-Doctoral Fellowship in Cancer Data Science,4.0,H. Lee Moffitt Cancer Center & Research Institute,Hospital,Health Care Services & Hospitals,Health Care,58,47.5,7500.5,Tampa,FL,36,1,0,0,0,0
+Data Science Support Analyst (Senior),3.6,BAE Systems USA,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,58,47.5,10000.0,McLean,VA,21,0,0,0,0,0
+Atlanta Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Atlanta,GA,13,0,0,0,0,0
+Houston Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Houston,TX,13,0,0,0,0,0
+Springfield Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Springfield,PA,13,0,0,0,0,0
+Data Science Manager/RDE,-1.0,"ZS Associates, Inc.",Company - Private,-1,-1,58,47.5,7500.5,Princeton,NJ,-1,1,0,0,0,1
+Adjunct Professor of Data Science,3.7,Lipscomb University,College / University,Colleges & Universities,Education,58,47.5,750.5,Nashville,TN,129,0,0,0,1,0
+"Manager, Data Science",-1.0,Optum Operations,-1,-1,-1,58,47.5,-1.0,Horsham,PA,-1,1,0,1,0,1
+"Associate Director, Data Science",3.7,Phreesia,Company - Public,Health Care Services & Hospitals,Health Care,58,47.5,350.5,Remote,Remote,15,1,0,1,0,0
+Senior Data Science Consultant,3.4,Allstate,Company - Public,Insurance Agencies & Brokerages,Insurance,58,47.5,10000.0,Chandler,AZ,89,1,0,0,1,1
+Cheminformatics Data Science Group Leader,3.9,Novartis,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,58,47.5,10000.0,Cambridge,MA,24,1,0,1,1,0
+Data Science Senior Analyst,3.5,The Judge Group,Company - Private,Staffing & Outsourcing,Business Services,58,47.5,3000.5,Saint Louis,MO,50,0,0,0,0,0
+Katy Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Katy,TX,13,0,0,0,0,0
+Senior Data Science Engineer,-1.0,super{set} startup studio,-1,-1,-1,58,47.5,-1.0,New York,NY,-1,1,0,0,0,0
+"Director, Data Science – VP",3.7,FCB Health,Subsidiary or Business Segment,Advertising & Marketing,Business Services,58,47.5,3000.5,New York,NY,-1,1,0,0,0,0
+Senior Manager Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,58,47.5,350.5,New York,NY,21,1,0,0,0,0
+Data Science Sr. Manager,3.8,Citibank,Company - Private,Lending,Finance,58,47.5,3000.5,New Castle,DE,-1,0,0,0,0,0
+"Senior Manager, Data Science",3.1,DrFirst,Company - Private,Health Care Services & Hospitals,Health Care,58,47.5,350.5,Rockville,MD,20,1,0,0,1,1
+Data Science Tutor,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Remote,Remote,13,0,0,0,0,0
+Senior Data Science Consultant,1.0,Raft,Nonprofit Organization,-1,-1,58,47.5,25.5,Reston,VA,-1,0,0,1,0,0
+Software Engineer - Data Science,-1.0,BlackFern Recruitment,-1,-1,-1,58,47.5,-1.0,Reston,VA,-1,1,0,0,0,0
+Albany Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Albany,NY,13,0,0,0,0,0
+Princeton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Princeton,NJ,13,0,0,0,0,0
+Moorestown Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Moorestown,NJ,13,0,0,0,0,0
+Connecticut Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Connecticut,CT,13,0,0,0,0,0
+Bellevue Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Bellevue,WA,13,0,0,0,0,0
+Everett Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Everett,WA,13,0,0,0,0,0
+Redmond Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Redmond,WA,13,0,0,0,0,0
+Kirkland Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Kirkland,WA,13,0,0,0,0,0
+Tulsa Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Tulsa,OK,13,0,0,0,0,0
+Buffalo Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Buffalo,NY,13,0,0,0,0,0
+Dayton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,58,47.5,350.5,Dayton,OH,13,0,0,0,0,0
+Senior Digital and Data Science Manager,3.7,Takeda,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,257,209.0,10000.0,Lexington,MA,239,1,0,0,0,0
+"Manager/Sr Manager, Data Science",4.6,Blend360,Company - Private,Consulting,Business Services,257,209.0,125.5,Columbia,MD,18,1,0,0,1,0
+Omaha Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Omaha,NE,13,0,0,0,0,0
+Louisville Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Louisville,KY,13,0,0,0,0,0
+Memphis Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Memphis,TN,13,0,0,0,0,0
+Clayton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Clayton,MO,13,0,0,0,0,0
+Rye Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Rye,NY,13,0,0,0,0,0
+Evanston Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Evanston,IL,13,0,0,0,0,0
+Ladue Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Ladue,MO,13,0,0,0,0,0
+Manhasset Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Manhasset,NY,13,0,0,0,0,0
+Smithtown Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Smithtown,NY,13,0,0,0,0,0
+Huntington Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Huntington,NY,13,0,0,0,0,0
+Hicksville Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Hicksville,NY,13,0,0,0,0,0
+Hoboken Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Hoboken,NJ,13,0,0,0,0,0
+Baltimore Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Baltimore,MD,13,0,0,0,0,0
+Plainfield Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Plainfield,NJ,13,0,0,0,0,0
+Morristown Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Morristown,NJ,13,0,0,0,0,0
+Middletown Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Middletown,NJ,13,0,0,0,0,0
+Clifton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Clifton,NJ,13,0,0,0,0,0
+Glendale Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Glendale,AZ,13,0,0,0,0,0
+Trenton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Trenton,NJ,13,0,0,0,0,0
+Tempe Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Tempe,AZ,13,0,0,0,0,0
+Marana Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Marana,AZ,13,0,0,0,0,0
+Mesa Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Mesa,AZ,13,0,0,0,0,0
+Chesterfield Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Chesterfield,MO,13,0,0,0,0,0
+Chandler Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Chandler,AZ,13,0,0,0,0,0
+Gilbert Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Gilbert,AZ,13,0,0,0,0,0
+Yonkers Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Yonkers,NY,13,0,0,0,0,0
+Skokie Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Skokie,IL,13,0,0,0,0,0
+Minneapolis Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Minneapolis,MN,13,0,0,0,0,0
+Tucson Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Tucson,AZ,13,0,0,0,0,0
+Milwaukee Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,257,209.0,350.5,Milwaukee,WI,13,0,0,0,0,0
+Principal Data Science - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,121,98.0,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Head of Real-World Data Science,5.0,Genesis Research,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,121,98.0,25.5,Hoboken,NJ,11,0,0,0,0,0
+Denver Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Denver,CO,13,0,0,0,0,0
+Levittown Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Levittown,NY,13,0,0,0,0,0
+Brentwood Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Brentwood,NY,13,0,0,0,0,0
+Edison Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Edison,NJ,13,0,0,0,0,0
+Elizabeth Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Elizabeth,NJ,13,0,0,0,0,0
+Paterson Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Paterson,NJ,13,0,0,0,0,0
+Newark Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Newark,NJ,13,0,0,0,0,0
+Radnor Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Radnor,PA,13,0,0,0,0,0
+Wayne Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Wayne,NJ,13,0,0,0,0,0
+Athens Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Athens,GA,13,0,0,0,0,0
+Northbrook Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Northbrook,IL,13,0,0,0,0,0
+Irving Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Irving,TX,13,0,0,0,0,0
+Wilmette Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Wilmette,IL,13,0,0,0,0,0
+McKinney Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,McKinney,TX,13,0,0,0,0,0
+Carrollton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Carrollton,TX,13,0,0,0,0,0
+Garland Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Garland,TX,13,0,0,0,0,0
+Westchester Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Yonkers,NY,13,0,0,0,0,0
+Scottsdale Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Scottsdale,AZ,13,0,0,0,0,0
+Scarsdale Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Scarsdale,NY,13,0,0,0,0,0
+Naperville Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Naperville,IL,13,0,0,0,0,0
+Plano Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Plano,TX,13,0,0,0,0,0
+Ballwin Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Ballwin,MO,13,0,0,0,0,0
+Allen Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Allen,TX,13,0,0,0,0,0
+Decatur Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Decatur,GA,13,0,0,0,0,0
+Gleview Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Glenview,IL,13,0,0,0,0,0
+Lawrenceville Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Lawrenceville,GA,13,0,0,0,0,0
+Roswell Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Roswell,GA,13,0,0,0,0,0
+Wheaton Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Wheaton,IL,13,0,0,0,0,0
+The Woodlands Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,The Woodlands,TX,13,0,0,0,0,0
+Leawood Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,121,98.0,350.5,Leawood,KS,13,0,0,0,0,0
+Senior Director of Data Science,4.3,Medidata Solutions,Company - Public,Enterprise Software & Network Solutions,Information Technology,208,157.0,3000.5,New York,NY,21,0,0,0,1,0
+Software Engineer - Data Science,4.1,ClearEdge,Company - Private,Computer Hardware & Software,Information Technology,208,157.0,125.5,Annapolis Junction,MD,18,1,0,1,0,1
+"AI Cloud DevOps Engineer - Data Science, Senior Consultant",3.2,Navigant Consulting,Company - Private,Consulting,Business Services,208,157.0,7500.5,Washington,DC,24,1,0,1,1,0
+Data Science Manager,4.4,"Vitaver & Associates, Inc.",Contract,Staffing & Outsourcing,Business Services,208,157.0,25.5,Tampa,FL,27,0,0,0,0,0
+Sr Data Science Engineer,4.6,NewWave Technologies,Company - Private,Wholesale,Business Services,208,157.0,125.5,Boston,MA,28,1,0,0,1,0
+"Manager, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,208,157.0,10000.0,McLean,VA,26,1,0,1,1,0
+"Sr. Data Engineer (Python, SQL, Data Science)",-1.0,Spiceorb,-1,-1,-1,208,157.0,-1.0,Fremont,CA,-1,1,0,0,0,0
+Senior Hadoop Developer with Data Science Track,-1.0,Common Cents Distributors,Company - Private,-1,-1,208,157.0,25.5,Fairfield,NJ,-1,1,0,1,1,1
+Director Commercial Launch Insights Data Science,-1.0,"Navigate BioPharma Services, a Novartis company",-1,-1,-1,208,157.0,-1.0,East Hanover,NJ,-1,0,0,0,0,0
+Director of Data Science and Innovation,3.5,Robert Half,Company - Public,Staffing & Outsourcing,Business Services,208,157.0,10000.0,Manchester,NH,72,1,0,1,0,1
+Sr Manager Data Sciences,3.8,Amgen,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,208,157.0,10000.0,Thousand Oaks,CA,40,0,0,0,0,0
+Principal SAS Programmer (Biometrics/Data Sciences),3.3,Adaptimmune,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,208,157.0,350.5,Philadelphia,PA,-1,1,0,0,0,0
+Operations Research Analyst ; Data Science ;Assessment Analyst,3.4,Far Ridgeline Engagements Inc,Company - Private,Municipal Governments,Government,208,157.0,125.5,Tampa,FL,-1,0,0,0,0,0
+Adjunct Professor of Data Sciences and Operations,4.2,University of Southern California,College / University,Colleges & Universities,Education,208,157.0,10000.0,Los Angeles,CA,140,0,0,0,0,0
+Sr Manager of Data Science,3.4,Thermo Fisher Scientific,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,208,157.0,10000.0,Carlsbad,CA,118,1,0,1,1,0
+"Manager, Data Science",3.3,CarMax,Company - Public,Vehicle Dealers,Retail,208,157.0,10000.0,Richmond,VA,27,1,0,0,0,0
+Audi Data Science Community Lead,-1.0,HRU Tech,-1,-1,-1,208,157.0,-1.0,Herndon,VA,-1,0,0,0,0,0
+Risk Data Science - Associate Director,3.4,DTCC,Company - Private,Brokerage Services,Finance,208,157.0,3000.5,Dallas,TX,47,1,0,0,1,0
+"Junior Software Engineer, Data Science",3.6,"LockerDome, Inc.",Company - Private,Internet,Information Technology,208,157.0,125.5,Saint Louis,MO,12,0,0,0,0,0
+Data Science Manager,3.4,Plymouth Rock Assurance,Company - Private,Insurance Carriers,Insurance,208,157.0,3000.5,Woodbridge,NJ,38,0,0,0,0,0
+Sr Data Science Consultant,4.0,Axis Group,Company - Private,IT Services,Information Technology,208,157.0,125.5,New Jersey,NJ,24,1,0,1,0,1
+Data Science Manager,-1.0,Amazon Corporate LLC,-1,-1,-1,208,157.0,-1.0,Seattle,WA,-1,1,0,0,1,0
+Senior Data Science Engineer,3.2,iHeartMedia,Company - Public,Radio,Media,208,157.0,10000.0,Nashville,TN,48,1,0,1,0,1
+"Assistant Professor of Applied Statistics and Data Science, Department of Mathematics and Statistics",4.1,Loyola University of Chicago Inc,College / University,Colleges & Universities,Education,208,157.0,3000.5,Chicago,IL,150,1,0,0,0,0
+Data Science Program Coordinator,3.7,University of California - San Diego Medical Centers,Hospital,Health Care Services & Hospitals,Health Care,208,157.0,10000.0,San Diego,CA,54,0,0,0,0,0
+Data Science Manager,-1.0,Sphere Software LLC,Company - Private,-1,-1,208,157.0,25.5,New York,NY,-1,0,0,0,0,0
+Professor of Practice and Director of the Data Science Center,3.8,University of San Diego,College / University,Colleges & Universities,Education,208,157.0,3000.5,San Diego,CA,71,1,0,0,1,0
+"Senior Manager, Data Science",3.9,Regeneron,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,208,157.0,7500.5,Sleepy Hollow,NY,32,1,0,1,1,0
+Operations Research Analyst/ Data Science/Assessment Analyst,3.3,Intecon,Company - Private,Aerospace & Defense,Aerospace & Defense,208,157.0,125.5,Tampa,FL,21,0,0,0,0,0
+Data Science Deliveries Design Leader - CVP,3.5,New York Life Insurance Co,Company - Private,Insurance Agencies & Brokerages,Insurance,208,157.0,10000.0,New York,NY,175,1,0,1,0,1
+Data Science Architect,-1.0,Nomi Health,Company - Private,-1,-1,208,157.0,-1.0,Austin,TX,-1,1,0,0,1,0
+Postdoctoral Fellow - Translational Data Science,4.0,INSTITUTE FOR SYSTEMS,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,208,157.0,125.5,Seattle,WA,20,1,0,0,0,0
+TSV Engineering & Data Science Program Manager,4.4,Two Sigma,Company - Private,Investment Banking & Asset Management,Finance,167,112.5,3000.5,New York,NY,19,0,0,0,0,0
+Lead Data Science Analyst - IHM,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,167,112.5,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Azure Data Science Engineer,3.9,Diverse Lynx,Company - Private,IT Services,Information Technology,167,112.5,750.5,Grand Rapids,MI,18,0,0,0,0,0
+Data Science Team Lead,3.8,Apex Systems,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,167,112.5,3000.5,San Antonio,TX,25,1,0,1,0,0
+"Nursing, Chair-Department of Biobehavioral Health and Data Science",3.9,University of New Mexico,College / University,Colleges & Universities,Education,167,112.5,10000.0,Albuquerque,NM,131,0,0,0,0,0
+Senior Data Science Architect,4.1,West Monroe Partners,Company - Private,Consulting,Business Services,167,112.5,3000.5,Chicago,IL,18,1,0,0,0,1
+Engineering and Data Science Leader (co-founder),-1.0,EIMIQ Data,-1,-1,-1,167,112.5,-1.0,Santa Clara,CA,-1,0,0,0,0,0
+CSM Data Science Service Delivery Architect,3.5,Raytheon Intelligence & Space,Subsidiary or Business Segment,Aerospace & Defense,Aerospace & Defense,167,112.5,10000.0,Dulles,VA,0,0,0,0,0,0
+Adjunct Faculty- Data Science,2.6,Beyond Campus Innovations,Company - Private,Colleges & Universities,Education,167,112.5,25.5,Greenwood Village - Araphoe,CO,-1,1,1,1,0,1
+Audi Data Science Community Lead,4.0,HRU Tech,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,350.5,Herndon,VA,41,0,0,0,0,0
+Data Science Sr. Analyst,4.5,Radiant Digital,Company - Private,-1,-1,167,112.5,25.5,Dallas,TX,-1,1,0,0,0,0
+"Manager, Data Science - Labor Markets",3.9,Amazon,Company - Public,Internet,Information Technology,167,112.5,10000.0,Nashville,TN,26,1,0,0,0,0
+Data Science Support (Senior) with Security Clearance,2.6,Salient CRGT,Company - Private,Enterprise Software & Network Solutions,Information Technology,167,112.5,3000.5,McLean,VA,-1,0,0,0,1,0
+Data Science Instructor,3.8,UCLA Extension,College / University,Colleges & Universities,Education,167,112.5,350.5,Los Angeles,CA,-1,1,0,0,0,1
+Computer Science Instructor and Course Developer - Data Science,-1.0,Concordia University of Austin TX,-1,-1,-1,167,112.5,-1.0,Austin,TX,-1,1,0,0,0,0
+VP of Data Science & Analytics,3.0,ExecuNet,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,25.5,Newport,KY,-1,0,0,0,0,0
+"Senior/Principal Scientist, Human Data Science",-1.0,Vor Biopharma,-1,-1,-1,167,112.5,-1.0,Cambridge,MA,-1,1,0,0,0,0
+Director of Data Science,3.7,"DriveTime Automotive Group, Inc.",Company - Private,Vehicle Dealers,Retail,167,112.5,7500.5,Tempe,AZ,18,0,0,0,0,0
+Data Science Director,4.0,Ezra Penland Actuarial Recruitment,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,-1.0,Chicago,IL,-1,0,0,0,0,0
+"Manager / Sr. Manager, Data Science - Direct Marketing",3.9,Oportun. Inc,Company - Public,Lending,Finance,167,112.5,3000.5,San Carlos,CA,15,1,0,1,1,0
+"Director, Data Science - VP",3.7,FCB Global,Subsidiary or Business Segment,Advertising & Marketing,Business Services,167,112.5,3000.5,New York,NY,147,1,0,0,0,0
+"Director/Assoc Director, Data Science -PHARMA",4.5,Smith Hanley Associates,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,25.5,New York,NY,40,1,0,0,0,0
+Director of Data Science - Big Data + Machine Learning,4.5,Green Key Resources,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,350.5,Columbus,OH,16,1,0,0,0,1
+"Senior Data Science Engineer, PySpark (REMOTE)",4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,167,112.5,350.5,San Jose,CA,21,1,0,1,0,1
+"Manager, Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,167,112.5,-1.0,Seattle,WA,-1,1,0,0,0,0
+"Software Engineer, Data Science",3.6,"LockerDome, Inc.",Company - Private,Internet,Information Technology,167,112.5,125.5,Saint Louis,MO,12,0,0,0,0,0
+"Data Science Lead - Los Angeles, CA - Rate Open",4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,167,112.5,25.5,Los Angeles,CA,-1,0,0,0,0,0
+"Principal Analyst, Data Science",-1.0,"Rainmaker Resources, LLC",Company - Private,-1,-1,167,112.5,25.5,Cincinnati,OH,-1,0,0,0,0,0
+VP of Data Science,-1.0,"Abe AI, Inc.",-1,-1,-1,167,112.5,-1.0,Orlando,FL,-1,1,0,0,0,0
+"Associate Director, Data Science",3.5,Veracyte,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,167,112.5,350.5,South San Francisco,CA,12,1,0,0,0,1
+Product Manager - Data Science,4.5,Progressive Leasing,Subsidiary or Business Segment,Financial Transaction Processing,Finance,167,112.5,3000.5,Draper,UT,21,0,0,0,1,0
+Sr. Enterprise Account Exec- Data Science / ML - NYC,4.1,h2o.ai,Company - Private,Enterprise Software & Network Solutions,Information Technology,167,112.5,350.5,New York,NY,9,0,0,0,1,0
+Lead Data Science Analyst,3.8,Discover,Company - Public,Financial Transaction Processing,Finance,118,101.5,10000.0,Riverwoods,IL,35,0,0,0,0,0
+Data Science Engineering Lead,3.1,MUFG,Company - Public,Banks & Credit Unions,Finance,118,101.5,10000.0,San Francisco,CA,156,1,0,0,1,0
+Engineering Manager Data Science,-1.0,"J Harlan Group, LLC",Company - Private,-1,-1,118,101.5,25.5,New York,NY,-1,1,0,0,0,1
+Data Science Product Manager,-1.0,MassMutual Wisconsin,-1,-1,-1,118,101.5,-1.0,Boston,MA,-1,0,0,0,0,0
+Data Science Product Manager,-1.0,MassMutual Wisconsin,-1,-1,-1,118,101.5,-1.0,Boston,MA,-1,0,0,0,0,0
+Datawarehouse Architect/Data Science,2.7,Vision Technologies,Company - Private,IT Services,Information Technology,118,101.5,750.5,Las Vegas,NV,20,0,0,0,0,0
+Data Science Product Manager,3.2,Mass Mutual,Company - Public,Investment Banking & Asset Management,Finance,118,101.5,-1.0,Boston,MA,-1,0,0,0,0,0
+Lead Data Engineer with Data Science experience / $200k,3.3,Motion Recruitment,Company - Private,Staffing & Outsourcing,Business Services,118,101.5,750.5,Burbank,CA,31,0,0,0,0,0
+"Manager, Recruiting Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,118,101.5,-1.0,Seattle,WA,-1,0,0,0,0,0
+Compliance Product Sr Analyst - Data Science,3.8,Citibank,Company - Private,Lending,Finance,118,101.5,3000.5,Tampa,FL,-1,1,0,0,1,0
+Associate or Full Professor - Data Science: Multiple Areas,4.3,UC San Diego,College / University,Colleges & Universities,Education,118,101.5,10000.0,San Diego,CA,60,0,0,0,0,0
+"Director, Network Optimization & Data Sciences",3.2,"7-Eleven, Inc.",Subsidiary or Business Segment,Other Retail Stores,Retail,118,101.5,10000.0,Irving,TX,93,1,0,1,0,0
+Associate or Full Professor - Data Science Ethics,4.3,UC San Diego,College / University,Colleges & Universities,Education,118,101.5,10000.0,San Diego,CA,60,0,0,0,0,0
+"Sr. Manager, Data Science",-1.0,Amazon Corporate LLC,-1,-1,-1,118,101.5,-1.0,Seattle,WA,-1,1,0,0,0,0
+"Senior Manager, Data Science",3.9,Amazon,Company - Public,Internet,Information Technology,118,101.5,10000.0,Seattle,WA,26,0,0,0,0,0
+Senior Software Engineer (Data Science),5.0,Seer,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,118,101.5,25.5,Redwood City,CA,3,1,0,0,1,0
+"Senior Account Executive, Data Science Technology Solutions",3.2,"Future Tech Enterprise, Inc.",Company - Private,IT Services,Information Technology,118,101.5,125.5,Holbrook,NY,24,1,0,0,0,0
+"Sr. Manager, Data Science, Amazon Transportation Services",-1.0,Amazon Corporate LLC,-1,-1,-1,118,101.5,-1.0,Seattle,WA,-1,1,0,0,0,0
+Data Science Team Lead,3.0,"IPSecure, Inc.",Company - Private,-1,-1,118,101.5,125.5,San Antonio,TX,-1,1,0,1,0,0
+"Manager, Data Science and ML Engineering",-1.0,Amazon Corporate LLC,-1,-1,-1,118,101.5,-1.0,Seattle,WA,-1,0,0,0,0,0
+Sr Data Science Engineer,2.6,"NewWave Telecom & Technologies, Inc.",Company - Private,IT Services,Information Technology,118,101.5,350.5,Boston,MA,16,1,0,0,1,0
+"Director, Data Science – VP",3.7,FCB Canada,Subsidiary or Business Segment,Advertising & Marketing,Business Services,118,101.5,3000.5,New York,NY,147,1,0,0,0,0
+"Senior Manager, Data Science",3.9,Capital One,Company - Public,Banks & Credit Unions,Finance,118,101.5,10000.0,McLean,VA,26,1,0,1,1,0
+Phoenix Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Phoenix,AZ,13,0,0,0,0,0
+Detroit Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Detroit,MI,13,0,0,0,0,0
+Boston Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Boston,MA,13,0,0,0,0,0
+Austin Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Austin,TX,13,0,0,0,0,0
+Cincinnati Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Cincinnati,OH,13,0,0,0,0,0
+Philadelphia Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Philadelphia,PA,13,0,0,0,0,0
+Missouri City Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Missouri City,TX,13,0,0,0,0,0
+Seattle Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,Seattle,WA,13,0,0,0,0,0
+East Meadow Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,118,101.5,350.5,East Meadow,NY,13,0,0,0,0,0
+"Associate Director, Data Science",3.6,Humana,Company - Public,Insurance Carriers,Insurance,106,78.0,10000.0,Irving,TX,59,1,0,0,0,1
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,106,78.0,350.5,Long Beach,CA,21,1,0,0,0,0
+Bergen County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Bergen,NJ,13,0,0,0,0,0
+Essex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Essex Fells,NJ,13,0,0,0,0,0
+Morris County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Morris,NJ,13,0,0,0,0,0
+Sussex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Sussex,NJ,13,0,0,0,0,0
+San Antonio Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,San Antonio,TX,13,0,0,0,0,0
+Delaware County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Delaware,PA,13,0,0,0,0,0
+East Orange Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,East Orange,NJ,13,0,0,0,0,0
+Chester County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Chester,PA,13,0,0,0,0,0
+Montgomery County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Montgomery,PA,13,0,0,0,0,0
+Suffolk County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,New Suffolk,NY,13,0,0,0,0,0
+Grand Prairie Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Grand Prairie,TX,13,0,0,0,0,0
+St. Louis Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Saint Louis,MO,13,0,0,0,0,0
+New York City Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,New York,NY,13,0,0,0,0,0
+Kansas City Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Kansas City,MO,13,0,0,0,0,0
+Shawnee Mission Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Shawnee Mission,KS,13,0,0,0,0,0
+"Sr Manager, Data Science - Policy & Advocacy",-1.0,Reynolds American Inc. (RAI),-1,-1,-1,106,78.0,-1.0,Winston-Salem,NC,-1,0,0,0,0,0
+Data Science Director,-1.0,Sphere Software LLC,Company - Private,-1,-1,106,78.0,25.5,New York,NY,-1,1,0,0,0,0
+VP of Data Science,3.0,American Credit Acceptance,Company - Private,Lending,Finance,106,78.0,750.5,Spartanburg,SC,13,0,0,0,0,0
+"Project Integrator, Data Science with Security Clearance",4.8,IntegrateIT,Company - Private,-1,-1,106,78.0,25.5,McLean,VA,-1,1,0,0,0,0
+Sr. Big Data Science Developer,-1.0,FlexIT Inc,-1,-1,-1,106,78.0,-1.0,Beaverton,OR,-1,1,0,1,1,1
+Federal - Data Science Instructor - Expert,-1.0,Accenture Contractor Jobs,-1,-1,-1,106,78.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Senior Software Engineer / Bioinformatics, Oncology Data Science Team",3.9,Novartis,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,10000.0,Cambridge,MA,24,1,0,0,1,0
+"Director, Data Science",3.7,FCB Health,Subsidiary or Business Segment,Advertising & Marketing,Business Services,106,78.0,3000.5,New York,NY,-1,1,0,0,0,0
+Data Science Team Lead,3.5,CompQsoft,Company - Private,Consulting,Business Services,106,78.0,125.5,San Antonio,TX,23,1,0,1,0,0
+VP of Data Science,-1.0,Equation Staffing,Company - Private,-1,-1,106,78.0,25.5,New York,NY,-1,1,0,1,1,1
+"Data Science Communities, Associate Director",4.0,AstraZeneca,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,10000.0,Gaithersburg,MD,107,0,0,0,1,0
+Senior Software Engineer - Data Science,4.6,BHE,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,25.5,Boston,MA,24,1,0,1,1,0
+Senior/Manager Data Science & Analytics,4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,106,78.0,25.5,New York,NY,-1,1,0,0,0,0
+Sr Software Engineer / Data Science - Cloud Platform,4.2,Vmware,Company - Public,Computer Hardware & Software,Information Technology,106,78.0,10000.0,Palo Alto,CA,22,1,0,1,1,0
+"Systems Administrator, Data Science Environment with Security Clearance",4.8,IntegrateIT,Company - Private,-1,-1,106,78.0,25.5,McLean,VA,-1,1,0,0,0,0
+"Associate Director, Data Science",3.6,Humana,Company - Public,Insurance Carriers,Insurance,106,78.0,10000.0,Irving,TX,59,1,0,0,0,1
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,106,78.0,350.5,Long Beach,CA,21,1,0,0,0,0
+Bergen County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Bergen,NJ,13,0,0,0,0,0
+Essex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Essex Fells,NJ,13,0,0,0,0,0
+Morris County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Morris,NJ,13,0,0,0,0,0
+Sussex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Sussex,NJ,13,0,0,0,0,0
+San Antonio Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,San Antonio,TX,13,0,0,0,0,0
+Delaware County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Delaware,PA,13,0,0,0,0,0
+East Orange Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,East Orange,NJ,13,0,0,0,0,0
+Chester County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Chester,PA,13,0,0,0,0,0
+Montgomery County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Montgomery,PA,13,0,0,0,0,0
+Suffolk County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,New Suffolk,NY,13,0,0,0,0,0
+Grand Prairie Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Grand Prairie,TX,13,0,0,0,0,0
+St. Louis Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Saint Louis,MO,13,0,0,0,0,0
+New York City Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,New York,NY,13,0,0,0,0,0
+Kansas City Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Kansas City,MO,13,0,0,0,0,0
+Shawnee Mission Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Shawnee Mission,KS,13,0,0,0,0,0
+"Sr Manager, Data Science - Policy & Advocacy",-1.0,Reynolds American Inc. (RAI),-1,-1,-1,106,78.0,-1.0,Winston-Salem,NC,-1,0,0,0,0,0
+Data Science Director,-1.0,Sphere Software LLC,Company - Private,-1,-1,106,78.0,25.5,New York,NY,-1,1,0,0,0,0
+VP of Data Science,3.0,American Credit Acceptance,Company - Private,Lending,Finance,106,78.0,750.5,Spartanburg,SC,13,0,0,0,0,0
+"Project Integrator, Data Science with Security Clearance",4.8,IntegrateIT,Company - Private,-1,-1,106,78.0,25.5,McLean,VA,-1,1,0,0,0,0
+Sr. Big Data Science Developer,-1.0,FlexIT Inc,-1,-1,-1,106,78.0,-1.0,Beaverton,OR,-1,1,0,1,1,1
+Federal - Data Science Instructor - Expert,-1.0,Accenture Contractor Jobs,-1,-1,-1,106,78.0,-1.0,Chantilly,VA,-1,0,0,0,0,0
+"Senior Software Engineer / Bioinformatics, Oncology Data Science Team",3.9,Novartis,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,10000.0,Cambridge,MA,24,1,0,0,1,0
+"Director, Data Science",3.7,FCB Health,Subsidiary or Business Segment,Advertising & Marketing,Business Services,106,78.0,3000.5,New York,NY,-1,1,0,0,0,0
+Data Science Team Lead,3.5,CompQsoft,Company - Private,Consulting,Business Services,106,78.0,125.5,San Antonio,TX,23,1,0,1,0,0
+VP of Data Science,-1.0,Equation Staffing,Company - Private,-1,-1,106,78.0,25.5,New York,NY,-1,1,0,1,1,1
+"Data Science Communities, Associate Director",4.0,AstraZeneca,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,10000.0,Gaithersburg,MD,107,0,0,0,1,0
+Senior Software Engineer - Data Science,4.6,BHE,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,106,78.0,25.5,Boston,MA,24,1,0,1,1,0
+Senior/Manager Data Science & Analytics,4.0,Two95 International Inc.,Company - Private,Staffing & Outsourcing,Business Services,106,78.0,25.5,New York,NY,-1,1,0,0,0,0
+Sr Software Engineer / Data Science - Cloud Platform,4.2,Vmware,Company - Public,Computer Hardware & Software,Information Technology,106,78.0,10000.0,Palo Alto,CA,22,1,0,1,1,0
+"Systems Administrator, Data Science Environment with Security Clearance",4.8,IntegrateIT,Company - Private,-1,-1,106,78.0,25.5,McLean,VA,-1,1,0,0,0,0
+"Associate Director, Data Science",3.6,Humana,Company - Public,Insurance Carriers,Insurance,106,78.0,10000.0,Irving,TX,59,1,0,0,0,1
+Director of Data Science,4.2,CyberCoders,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,106,78.0,350.5,Long Beach,CA,21,1,0,0,0,0
+Bergen County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Bergen,NJ,13,0,0,0,0,0
+Essex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Essex Fells,NJ,13,0,0,0,0,0
+Morris County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Morris,NJ,13,0,0,0,0,0
+Sussex County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Sussex,NJ,13,0,0,0,0,0
+San Antonio Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,San Antonio,TX,13,0,0,0,0,0
+Delaware County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Delaware,PA,13,0,0,0,0,0
+East Orange Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,East Orange,NJ,13,0,0,0,0,0
+Chester County Data Science Tutor Jobs,4.2,Varsity Tutors,Company - Private,Internet,Information Technology,106,78.0,350.5,Chester,PA,13,0,0,0,0,0
