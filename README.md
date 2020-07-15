@@ -57,6 +57,18 @@ I looked at the distributions of the data and the value counts for the various c
 ![alt text](images/wc.png "Wordcloud of Job Descriptions")
 ![alt text](images/avg_salary_by_position_and_seniority.png "Average salary by position and seniority")
 
+**Some Observations from EDA**
+
+* NY city most popular
+* CA state most popular
+* Not so many Remote jobs - Surpising
+* A lot of Staffing and Outsourcers out there!!
+* Retail - not so many jobs!
+* Managers, directors and Machine Learning Engineers are earning less than data engineers and data analysts
+* Interns making waaaay more than regular post?? - Upon deep diving into this, it seems like the companies just put the salary expectations arbitrarily for interns. This is questionable for other fields as well! Not cool guys!!
+* Salaries for AZ > MO >CA > NY - Surprising! Considering CA has silicon valley!
+
+
 ## Model Building 
 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.   
