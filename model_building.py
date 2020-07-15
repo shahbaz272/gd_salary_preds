@@ -93,3 +93,15 @@ mean_absolute_error(y_test,tpred_lml)
 mean_absolute_error(y_test,tpred_rf)
 
 mean_absolute_error(y_test,(tpred_lml+tpred_rf)/2)
+
+#model pickling :D
+
+import pickle
+
+pickl = {'model': gs.best_estimator_}
+pickle.dump( pickl, open( 'model_file' + ".p", "wb" ) )
+
+
+list(X_test.iloc[1,:].values)
+
+gs.best_estimator_.predict(X_test.iloc[1,:].values.reshape(1,-1))
